@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Liens des allographes</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Projet Oriflamms, http://oriflamms.hypotheses.org</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Créé par Oriflamms.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="txt" matchPattern="([a-z]+)" replacementPattern="../texts/PsautierIMS-c.xml#$1"/>
+                <prefixDef ident="lgly" matchPattern="([a-z]+)" replacementPattern="../ontologies/PsautierIMS_ontology.xml#$1"/>
+                <prefixDef ident="ggly" matchPattern="([a-z]+)" replacementPattern="../../charDecl.xml#$1"/>
+            </listPrefixDef>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab>
+                <linkGrp type="words">
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1265_7 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-0 lgly:auto_b-1-0-0-0 lgly:auto_b-1-0-0-0-0 lgly:auto_b-1-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-0-0-0 lgly:b-0 lgly:b-0-0 lgly:b-0-0-0 lgly:b-0-0-0-0"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1273_5 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-0 lgly:auto_b-1-0-0-0 lgly:auto_b-1-0-0-0-0 lgly:auto_b-1-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-0-0-0 lgly:b-0 lgly:b-0-0 lgly:b-0-0-0 lgly:b-0-0-0-0"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1394_5 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-0 lgly:auto_b-1-0-0-0 lgly:auto_b-1-0-0-0-0 lgly:auto_b-1-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-1 lgly:b-0 lgly:b-0-0 lgly:b-0-0-0 lgly:b-0-0-0-0"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1265_4 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-1 lgly:b-0 lgly:b-0-0 lgly:b-0-0-0 lgly:b-0-0-0-1"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1252_1 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-0 lgly:auto_b-1-0-0-0 lgly:auto_b-1-0-0-0-0 lgly:auto_b-1-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-0-1 lgly:b-0 lgly:b-0-0 lgly:b-0-0-0 lgly:b-0-0-0-0"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1499_4 lgly:auto_b-0 lgly:b-0 lgly:b-0-1"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1462_2 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-0 lgly:auto_b-1-0-0-0 lgly:auto_b-1-0-0-0-0 lgly:auto_b-1-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-1 lgly:b-0 lgly:b-0-0 lgly:b-0-0-0 lgly:b-0-0-0-0"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1228_2 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-0 lgly:auto_b-1-0-0-0 lgly:auto_b-1-0-0-0-0 lgly:auto_b-1-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-0-0-1 lgly:b-0 lgly:b-0-0 lgly:b-0-0-0 lgly:b-0-0-0-0"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1252_3 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-0 lgly:auto_b-1-0-0-1 lgly:b-0 lgly:b-0-0 lgly:b-0-0-0 lgly:b-0-0-0-0"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1331_7 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-0 lgly:auto_b-1-0-0-0 lgly:auto_b-1-0-0-0-0 lgly:auto_b-1-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-0-1 lgly:b-0 lgly:b-0-0 lgly:b-0-0-0 lgly:b-0-0-0-0"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1305_3 lgly:auto_b-1 lgly:auto_b-1-1 lgly:b-1"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1359_7 lgly:auto_b-1 lgly:auto_b-1-1 lgly:b-1"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1362_5 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-0 lgly:auto_b-1-0-0-0 lgly:auto_b-1-0-0-0-0 lgly:auto_b-1-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-0-0-1 lgly:b-0 lgly:b-0-0 lgly:b-0-0-0 lgly:b-0-0-0-0"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1530_9 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-0 lgly:auto_b-1-0-0-0 lgly:auto_b-1-0-0-0-0 lgly:auto_b-1-0-0-0-0-1 lgly:b-0 lgly:b-0-0 lgly:b-0-0-0 lgly:b-0-0-0-0"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1375_8 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-0 lgly:auto_b-1-0-0-0 lgly:auto_b-1-0-0-0-0 lgly:auto_b-1-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-1 lgly:b-0 lgly:b-0-0 lgly:b-0-0-0 lgly:b-0-0-0-0"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1403_5 lgly:auto_b-0 lgly:b-0 lgly:b-0-0 lgly:b-0-0-1"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1404_6 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-0 lgly:auto_b-1-0-0-0 lgly:auto_b-1-0-0-0-0 lgly:auto_b-1-0-0-0-0-1 lgly:b-0 lgly:b-0-0 lgly:b-0-0-0 lgly:b-0-0-0-0"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1496_3 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-0 lgly:auto_b-1-0-0-0 lgly:auto_b-1-0-0-0-1 lgly:b-0 lgly:b-0-1"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1510_5 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-1 lgly:b-0 lgly:b-0-0 lgly:b-0-0-0 lgly:b-0-0-0-1"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1513_5 lgly:auto_b-0 lgly:b-0 lgly:b-0-0 lgly:b-0-0-1"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1535_8 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-0 lgly:auto_b-1-0-0-0 lgly:auto_b-1-0-0-0-1 lgly:b-0 lgly:b-0-0 lgly:b-0-0-0 lgly:b-0-0-0-0"/>
+                    <link target="txt:c_w_PsautierIMS-or01-or10_1530_5 lgly:auto_b-1 lgly:auto_b-1-0 lgly:auto_b-1-0-0 lgly:auto_b-1-0-0-0 lgly:auto_b-1-0-0-0-0 lgly:auto_b-1-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0 lgly:auto_b-1-0-0-0-0-0-0-0-1 lgly:b-0 lgly:b-0-0 lgly:b-0-0-0 lgly:b-0-0-0-0"/>
+                </linkGrp>
+            </ab>
+        </body>
+    </text>
+</TEI>

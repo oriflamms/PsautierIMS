@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Linking data for document transcriptions and image zones (PsautierIMS-11-15-w)</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Oriflamms project ((http://oriflamms.hypotheses.org))</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from Oriflamms XML-TEI transcription file</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="txt" matchPattern="([a-z]+)" replacementPattern="../texts/PsautierIMS-11-15-c.xml#$1"/>
+                <prefixDef ident="img" matchPattern="([a-z]+)" replacementPattern="../zones/PsautierIMS-11-15_surf_PsautierIMS-11-15_B250566101_MS0155_0067-zones.xml#$1"/>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2016-06-22">File created</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab type="linking">
+                <linkGrp type="surfaces"/>
+                <linkGrp type="pages">
+                    <link target="txt:page_PsautierIMS-11-15_22 img:zone-page_PsautierIMS-11-15_22"/>
+                </linkGrp>
+                <linkGrp type="columns">
+                    <link target="txt:col_PsautierIMS-11-15_22_1 img:zone-col_PsautierIMS-11-15_22_1"/>
+                </linkGrp>
+                <linkGrp type="lines">
+                    <link target="txt:line_PsautierIMS-11-15_22_1_1 img:zone-line_PsautierIMS-11-15_22_1_1"/>
+                </linkGrp>
+                <linkGrp type="words">
+                    <link target="txt:w_PsautierIMS-11-15_1020 img:zone-w_PsautierIMS-11-15_1020"/>
+                    <link target="txt:w_PsautierIMS-11-15_1021 img:zone-w_PsautierIMS-11-15_1021"/>
+                    <link target="txt:w_PsautierIMS-11-15_1022 img:zone-w_PsautierIMS-11-15_1022"/>
+                </linkGrp>
+                <linkGrp type="characters">
+                    <link target="txt:c_w_PsautierIMS-11-15_1020_1 img:zone-c_w_PsautierIMS-11-15_1020_1"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1020_2 img:zone-c_w_PsautierIMS-11-15_1020_2"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1020_3 img:zone-c_w_PsautierIMS-11-15_1020_3"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1020_4 img:zone-c_w_PsautierIMS-11-15_1020_4"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1020_5 img:zone-c_w_PsautierIMS-11-15_1020_5"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1020_6 img:zone-c_w_PsautierIMS-11-15_1020_6"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1021_1 img:zone-c_w_PsautierIMS-11-15_1021_1"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1021_2 img:zone-c_w_PsautierIMS-11-15_1021_2"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1021_3 img:zone-c_w_PsautierIMS-11-15_1021_3"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1021_4 img:zone-c_w_PsautierIMS-11-15_1021_4"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1021_5 img:zone-c_w_PsautierIMS-11-15_1021_5"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1021_6 img:zone-c_w_PsautierIMS-11-15_1021_6"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1022_1 img:zone-c_w_PsautierIMS-11-15_1022_1"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1022_2 img:zone-c_w_PsautierIMS-11-15_1022_2"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1022_3 img:zone-c_w_PsautierIMS-11-15_1022_3"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1022_4 img:zone-c_w_PsautierIMS-11-15_1022_4"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1022_5 img:zone-c_w_PsautierIMS-11-15_1022_5"/>
+                    <link target="txt:c_w_PsautierIMS-11-15_1022_6 img:zone-c_w_PsautierIMS-11-15_1022_6"/>
+                </linkGrp>
+            </ab>
+        </body>
+    </text>
+</TEI>

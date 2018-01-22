@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Déclaration des allographes</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Projet Oriflamms, http://oriflamms.hypotheses.org</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Créé par Oriflamms.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <charDecl>
+                <glyph xml:id="b-0" change="#auto">
+                    <desc>Sous-classe de b</desc>
+                </glyph>
+                <glyph xml:id="b-1" change="#auto">
+                    <desc>Sous-classe de b</desc>
+                </glyph>
+                <glyph xml:id="b-0-0" change="#auto">
+                    <desc>Sous-classe de b-0</desc>
+                    <note>parent=lgly:b-0</note>
+                </glyph>
+                <glyph xml:id="b-0-1" change="#auto">
+                    <desc>Sous-classe de b-0</desc>
+                    <note>parent=lgly:b-0</note>
+                </glyph>
+                <glyph xml:id="b-0-0-0" change="#auto">
+                    <desc>Sous-classe de b-0-0</desc>
+                    <note>parent=lgly:b-0-0</note>
+                </glyph>
+                <glyph xml:id="b-0-0-1" change="#auto">
+                    <desc>Sous-classe de b-0-0</desc>
+                    <note>parent=lgly:b-0-0</note>
+                </glyph>
+                <glyph xml:id="b-0-0-0-0" change="#auto">
+                    <desc>Sous-classe de b-0-0-0</desc>
+                    <note>parent=lgly:b-0-0-0</note>
+                </glyph>
+                <glyph xml:id="b-0-0-0-1" change="#auto">
+                    <desc>Sous-classe de b-0-0-0</desc>
+                    <note>parent=lgly:b-0-0-0</note>
+                </glyph>
+                <glyph xml:id="auto_b" change="#auto">
+                    <desc>Classe de base pour la classification automatique de b</desc>
+                </glyph>
+                <glyph xml:id="auto_b-0" change="#auto">
+                    <desc>Sous-classe de auto_b</desc>
+                    <note>parent=lgly:auto_b</note>
+                </glyph>
+                <glyph xml:id="auto_b-1" change="#auto">
+                    <desc>Sous-classe de auto_b</desc>
+                    <note>parent=lgly:auto_b</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0" change="#auto">
+                    <desc>Sous-classe de auto_b-1</desc>
+                    <note>parent=lgly:auto_b-1</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-1" change="#auto">
+                    <desc>Sous-classe de auto_b-1</desc>
+                    <note>parent=lgly:auto_b-1</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0</desc>
+                    <note>parent=lgly:auto_b-1-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-1" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0</desc>
+                    <note>parent=lgly:auto_b-1-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0-0" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0-0</desc>
+                    <note>parent=lgly:auto_b-1-0-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0-1" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0-0</desc>
+                    <note>parent=lgly:auto_b-1-0-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0-0-0" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0-0-0</desc>
+                    <note>parent=lgly:auto_b-1-0-0-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0-0-1" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0-0-0</desc>
+                    <note>parent=lgly:auto_b-1-0-0-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0-0-0-0" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0-0-0-0</desc>
+                    <note>parent=lgly:auto_b-1-0-0-0-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0-0-0-1" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0-0-0-0</desc>
+                    <note>parent=lgly:auto_b-1-0-0-0-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0-0-0-0-0" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0-0-0-0-0</desc>
+                    <note>parent=lgly:auto_b-1-0-0-0-0-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0-0-0-0-1" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0-0-0-0-0</desc>
+                    <note>parent=lgly:auto_b-1-0-0-0-0-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0-0-0-0-0-0" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0-0-0-0-0-0</desc>
+                    <note>parent=lgly:auto_b-1-0-0-0-0-0-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0-0-0-0-0-1" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0-0-0-0-0-0</desc>
+                    <note>parent=lgly:auto_b-1-0-0-0-0-0-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0-0-0-0-0-0-0" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0-0-0-0-0-0-0</desc>
+                    <note>parent=lgly:auto_b-1-0-0-0-0-0-0-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0-0-0-0-0-0-1" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0-0-0-0-0-0-0</desc>
+                    <note>parent=lgly:auto_b-1-0-0-0-0-0-0-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0-0-0-0-0-0-0-0" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0-0-0-0-0-0-0-0</desc>
+                    <note>parent=lgly:auto_b-1-0-0-0-0-0-0-0-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0-0-0-0-0-0-0-1" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0-0-0-0-0-0-0-0</desc>
+                    <note>parent=lgly:auto_b-1-0-0-0-0-0-0-0-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0-0-0-0-0-0-0-0-0" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0-0-0-0-0-0-0-0-0</desc>
+                    <note>parent=lgly:auto_b-1-0-0-0-0-0-0-0-0-0</note>
+                </glyph>
+                <glyph xml:id="auto_b-1-0-0-0-0-0-0-0-0-0-1" change="#auto">
+                    <desc>Sous-classe de auto_b-1-0-0-0-0-0-0-0-0-0</desc>
+                    <note>parent=lgly:auto_b-1-0-0-0-0-0-0-0-0-0</note>
+                </glyph>
+            </charDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>Déclaration des allographes</p>
+        </body>
+    </text>
+</TEI>

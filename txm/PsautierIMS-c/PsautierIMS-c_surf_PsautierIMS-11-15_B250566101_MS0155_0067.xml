@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   
+   <text>
+      <body>
+         <pb n="65r" facs="B250566101_MS0155_0067.jpg" xml:id="surf_PsautierIMS-11-15_B250566101_MS0155_0067"></pb>
+         <p rend="CONTINUED">
+            <milestone unit="ms-page" facs="B250566101_MS0155_0067.jpg" xml:id="page_PsautierIMS-11-15_22" n="65r"></milestone>
+            <!--cb added automatically--><cb xml:id="col_PsautierIMS-11-15_22_1" n="1"></cb>
+            <lb xml:id="line_PsautierIMS-11-15_22_1_1" n="1"></lb>
+            <milestone unit="vers" n="101:2"></milestone> 
+            <w xml:id="w_PsautierIMS-11-15_1020" n="1020" expan="domine" letters-all="domine" letters-alignable="domine" characters="domine" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1">
+               <c xml:id="c_w_PsautierIMS-11-15_1020_1" expan="d" letters-all="d" letters-alignable="d" characters="d" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="d" allograph-expert="d" allograph-auto="d">d</c>
+               <c xml:id="c_w_PsautierIMS-11-15_1020_2" expan="o" letters-all="o" letters-alignable="o" characters="o" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="o" allograph-expert="o" allograph-auto="o">o</c>
+               <c xml:id="c_w_PsautierIMS-11-15_1020_3" expan="m" letters-all="m" letters-alignable="m" characters="m" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="m" allograph-expert="m" allograph-auto="m">m</c>
+               <c xml:id="c_w_PsautierIMS-11-15_1020_4" expan="i" letters-all="i" letters-alignable="i" characters="i" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="i" allograph-expert="i" allograph-auto="i">i</c>
+               <c xml:id="c_w_PsautierIMS-11-15_1020_5" expan="n" letters-all="n" letters-alignable="n" characters="n" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="n" allograph-expert="n" allograph-auto="n">n</c>
+               <c xml:id="c_w_PsautierIMS-11-15_1020_6" expan="e" letters-all="e" letters-alignable="e" characters="e" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="e" allograph-expert="e" allograph-auto="e">e</c>
+            </w> 
+            <w xml:id="w_PsautierIMS-11-15_1021" n="1021" expan="exaudi" letters-all="exaudi" letters-alignable="exaudi" characters="exaudi" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1">
+               <c xml:id="c_w_PsautierIMS-11-15_1021_1" expan="e" letters-all="e" letters-alignable="e" characters="e" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="e" allograph-expert="e" allograph-auto="e">e</c>
+               <c xml:id="c_w_PsautierIMS-11-15_1021_2" expan="x" letters-all="x" letters-alignable="x" characters="x" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="x" allograph-expert="x" allograph-auto="x">x</c>
+               <c xml:id="c_w_PsautierIMS-11-15_1021_3" expan="a" letters-all="a" letters-alignable="a" characters="a" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="a" allograph-expert="a" allograph-auto="a">a</c>
+               <c xml:id="c_w_PsautierIMS-11-15_1021_4" expan="u" letters-all="u" letters-alignable="u" characters="u" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="u" allograph-expert="u" allograph-auto="u">u</c>
+               <c xml:id="c_w_PsautierIMS-11-15_1021_5" expan="d" letters-all="d" letters-alignable="d" characters="d" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="d" allograph-expert="d" allograph-auto="d">d</c>
+               <c xml:id="c_w_PsautierIMS-11-15_1021_6" expan="i" letters-all="i" letters-alignable="i" characters="i" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="i" allograph-expert="i" allograph-auto="i">i</c>
+            </w> 
+            <w xml:id="w_PsautierIMS-11-15_1022" n="1022" expan="oratio" letters-all="oratio" letters-alignable="oratio" characters="oratio" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1">
+               <c xml:id="c_w_PsautierIMS-11-15_1022_1" expan="o" letters-all="o" letters-alignable="o" characters="o" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="o" allograph-expert="o" allograph-auto="o">o</c>
+               <c xml:id="c_w_PsautierIMS-11-15_1022_2" expan="r" letters-all="r" letters-alignable="r" characters="r" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="r" allograph-expert="r" allograph-auto="r">r</c>
+               <c xml:id="c_w_PsautierIMS-11-15_1022_3" expan="a" letters-all="a" letters-alignable="a" characters="a" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="a" allograph-expert="a" allograph-auto="a">a</c>
+               <c xml:id="c_w_PsautierIMS-11-15_1022_4" expan="t" letters-all="t" letters-alignable="t" characters="t" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="t" allograph-expert="t" allograph-auto="t">t</c>
+               <c xml:id="c_w_PsautierIMS-11-15_1022_5" expan="i" letters-all="i" letters-alignable="i" characters="i" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="i" allograph-expert="i" allograph-auto="i">i</c>
+               <c xml:id="c_w_PsautierIMS-11-15_1022_6" expan="o" letters-all="o" letters-alignable="o" characters="o" abbr-n="0" ref="PsautierIMS-c_surf_PsautierIMS-11-15_B250566101_MS0155_0067, f. 65r, col. 1, l. 1" sign="o" allograph-expert="o" allograph-auto="o">o</c>
+            </w>
+         </p>
+      </body>
+   </text>
+</TEI>

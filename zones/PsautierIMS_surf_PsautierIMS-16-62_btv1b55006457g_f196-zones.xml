@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Image zones for surf_PsautierIMS-16-62_btv1b55006457g_f196</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Oriflamms project</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from Oriflamms XML-TEI transcription file</p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2016-06-23">File created</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile xml:base="../img/">
+        <surface xml:id="surf_imgPsautierIMS-16-62_btv1b55006457g_f196">
+            <graphic url="btv1b55006457g_f196.jpg"/>
+            <zone type="page" ulx="0" uly="0" lrx="1523" lry="2155" xml:id="zone-page_PsautierIMS-16-62_27">
+                <zone type="column" xml:id="zone-col_PsautierIMS-16-62_27_1" ulx="247" uly="322" lrx="1349" lry="1563">
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_1" ulx="261" uly="322" lrx="1341" lry="408">
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1564" ulx="261" uly="338" lrx="403" lry="408" points="261,338 261,408 403,408 411,400 407,396 403,383 402,380 402,377 402,370 402,363 402,353 403,338">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1564_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1564_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1564_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1564_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1565" ulx="404" uly="337" lrx="455" lry="406" points="404,337 403,365 404,368 403,371 402,377 402,380 404,384 407,396 410,400 404,406 455,406 454,401 455,387 452,382 453,378 453,374 455,360 453,354 452,351 453,348 454,340 455,337">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1565_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1565_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1566" ulx="456" uly="336" lrx="717" lry="405" points="456,336 454,347 452,351 453,354 455,360 453,374 453,378 452,382 456,388 456,393 456,405 717,405 716,393 716,386 718,354 717,336">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1566_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1566_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1566_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1566_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1566_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1566_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1566_7"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1566_8"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1566_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1567" ulx="718" uly="336" lrx="780" lry="404" points="718,336 719,359 717,396 717,399 718,404 780,404 779,400 780,391 784,385 782,380 780,370 781,364 781,353 780,336">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1567_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1567_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1568" ulx="781" uly="336" lrx="877" lry="405" points="781,336 782,355 781,363 782,380 784,385 780,391 781,405 877,405 876,403 877,399 876,396 876,381 876,378 877,367 875,362 876,359 876,354 876,343 877,338 877,336">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1568_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1568_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1568_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1569" ulx="878" uly="322" lrx="976" lry="405" points="878,322 880,333 878,339 878,342 876,354 876,359 878,365 878,371 878,375 877,379 878,382 877,388 877,391 877,395 877,402 878,405 976,405 976,404 975,400 975,396 975,389 975,385 975,380 976,362 977,359 975,324 976,322">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1569_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1569_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1569_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_PsautierIMS-16-62_1570" ulx="977" uly="322" lrx="1016" lry="390" points="977,322 977,324 976,329 976,347 976,352 976,366 977,370 976,377 977,381 977,384 977,390 1016,390 1015,368 1015,354 1015,350 1015,344 1015,336 1015,327 1016,322">
+                            <zone type="character" xml:id="zone-c_pc_PsautierIMS-16-62_1570_1"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_2" ulx="250" uly="395" lrx="1349" lry="471">
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1571" ulx="250" uly="399" lrx="581" lry="470" points="250,399 249,419 247,422 250,426 248,430 250,434 250,470 581,470 581,455 580,452 581,448 580,444 581,432 581,428 582,424 580,416 580,412 581,399">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1571_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1571_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1571_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1571_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1571_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1571_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1571_7"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1571_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1572" ulx="582" uly="402" lrx="648" lry="471" points="582,402 581,415 582,423 581,434 581,440 580,444 581,448 581,451 582,455 582,471 648,471 648,451 645,443 644,435 644,431 645,425 647,420 647,414 647,409 647,405 648,402">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1572_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1572_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1573" ulx="649" uly="400" lrx="861" lry="470" points="649,400 648,409 648,416 645,426 644,431 644,435 645,443 649,453 649,457 649,470 861,470 860,453 862,445 861,416 860,413 860,409 860,405 861,400">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1573_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1573_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1573_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1573_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1573_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1573_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-wp_PsautierIMS-16-62_PsautierIMS-16-62_27_1574_1" ulx="862" uly="395" lrx="1033" lry="468" points="862,395 861,402 863,406 861,409 862,412 863,415 861,442 862,468 1033,468 1032,467 1032,447 1034,442 1032,431 1034,428 1034,402 1032,399 1033,395">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1574_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1574_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1574_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1574_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_3" ulx="263" uly="472" lrx="1349" lry="545">
+                        <zone type="word" xml:id="zone-wp_PsautierIMS-16-62_PsautierIMS-16-62_27_1574_2" ulx="263" uly="477" lrx="439" lry="545" points="263,477 261,481 263,485 263,488 262,491 264,495 262,514 263,545 439,545 439,542 438,539 438,535 439,517 438,514 438,504 439,477">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1574_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1574_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1574_7"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1574_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1575" ulx="440" uly="477" lrx="499" lry="545" points="440,477 441,511 439,528 440,545 499,545 498,527 499,477">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1575_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1575_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1576" ulx="500" uly="473" lrx="619" lry="545" points="500,473 499,500 499,511 499,519 499,523 500,526 499,529 500,545 619,545 618,526 619,473">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1576_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1576_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1576_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1577" ulx="620" uly="472" lrx="821" lry="541" points="620,472 620,541 821,541 820,539 820,531 820,527 820,507 820,504 821,500 820,497 822,489 821,472">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1577_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1577_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1577_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1577_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1577_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1577_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1577_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1578" ulx="822" uly="472" lrx="961" lry="541" points="822,472 821,480 823,505 822,509 823,525 822,528 822,541 961,541 960,522 961,510 961,507 959,503 960,498 960,488 961,482 962,478 963,475 961,472">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1578_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1578_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1578_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1578_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1578_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1579" ulx="962" uly="473" lrx="1055" lry="541" points="962,473 963,475 962,478 961,488 961,494 962,498 959,503 961,507 961,510 960,520 962,524 961,529 962,541 1055,541 1054,540 1055,535 1054,531 1054,528 1055,524 1054,516 1055,509 1053,505 1054,501 1054,497 1055,494 1055,488 1055,484 1053,479 1055,473">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1579_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1579_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1579_3"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_4" ulx="251" uly="539" lrx="1067" lry="617">
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1580" ulx="251" uly="544" lrx="656" lry="617" points="251,544 250,591 250,600 248,609 247,613 251,617 656,617 655,608 657,599 656,594 654,590 655,587 655,572 655,566 655,563 655,554 655,550 656,544">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1580_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1580_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1580_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1580_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1580_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1580_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1580_7"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1580_8"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1580_9"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1580_10"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1581" ulx="657" uly="543" lrx="740" lry="612" points="657,543 660,546 656,551 656,558 656,570 657,576 655,587 655,590 657,594 656,597 656,611 657,612 740,612 739,593 738,583 740,579 740,575 739,568 740,565 739,559 740,543">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1581_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1581_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1581_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1582" ulx="741" uly="542" lrx="800" lry="611" points="741,542 740,558 738,562 740,565 739,568 740,575 740,579 738,583 739,593 741,598 741,611 800,611 800,610 798,606 800,600 803,596 800,588 798,583 799,579 799,575 800,571 802,564 799,559 799,549 800,542">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1582_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1582_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-wp_PsautierIMS-16-62_PsautierIMS-16-62_27_1583_1" ulx="801" uly="539" lrx="1048" lry="610" points="801,539 799,549 801,555 802,564 800,572 799,575 799,579 798,583 801,589 800,592 803,596 801,600 800,604 802,607 801,610 1048,610 1049,584 1047,571 1048,539">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1583_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1583_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1583_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1583_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1583_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1583_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1583_7"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1583_8"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1583_9"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_5" ulx="252" uly="613" lrx="1080" lry="683">
+                        <zone type="word" xml:id="zone-wp_PsautierIMS-16-62_PsautierIMS-16-62_27_1583_2" ulx="278" uly="614" lrx="364" lry="682" points="278,614 277,624 277,638 277,653 278,682 364,682 364,673 362,667 360,662 359,655 363,648 364,614">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1583_10"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1583_11"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1584" ulx="365" uly="614" lrx="507" lry="682" points="365,614 364,646 359,655 360,662 362,667 365,672 365,682 507,682 508,672 507,668 509,664 508,658 507,653 506,650 507,641 510,636 508,631 507,614">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1584_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1584_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1584_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1584_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1584_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1584_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1585" ulx="508" uly="614" lrx="567" lry="682" points="508,614 509,633 508,640 506,651 508,655 509,664 510,669 508,673 508,682 567,682 566,653 568,645 568,640 568,634 567,614">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1585_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1585_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1586" ulx="568" uly="613" lrx="792" lry="683" points="568,613 569,636 568,641 567,647 567,656 567,672 567,681 568,683 792,683 791,675 792,667 789,656 791,646 790,643 792,637 791,633 792,613">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1586_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1586_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1586_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1586_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1586_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1586_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1586_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1587" ulx="793" uly="613" lrx="891" lry="681" points="793,613 792,635 792,639 790,643 791,646 789,656 792,667 793,671 793,681 891,681 891,650 891,645 890,641 890,637 891,613">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1587_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1587_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1587_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-wp_PsautierIMS-16-62_PsautierIMS-16-62_27_1588_1" ulx="892" uly="613" lrx="1047" lry="682" points="892,613 891,636 890,641 891,645 891,650 892,659 892,682 1047,682 1047,676 1046,672 1046,660 1048,654 1046,648 1047,613">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1588_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1588_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1588_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1588_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1588_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1588_6"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_6" ulx="261" uly="681" lrx="1090" lry="755">
+                        <zone type="word" xml:id="zone-wp_PsautierIMS-16-62_PsautierIMS-16-62_27_1588_2" ulx="261" uly="687" lrx="374" lry="755" points="261,687 260,712 260,743 260,752 261,755 374,755 374,737 373,734 374,720 373,717 374,714 376,708 374,705 376,700 373,693 374,687">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1588_7"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1588_8"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1588_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1589" ulx="375" uly="684" lrx="622" lry="755" points="375,684 374,691 376,696 376,700 374,705 376,708 376,727 376,739 376,744 375,748 375,755 622,755 619,752 621,745 623,735 621,729 622,718 623,707 622,684">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1589_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1589_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1589_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1589_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1589_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1589_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1589_7"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1589_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1590" ulx="623" uly="681" lrx="917" lry="752" points="623,681 622,684 623,690 622,694 623,698 624,706 624,709 623,715 622,718 624,722 622,725 621,729 624,733 622,743 623,747 622,751 623,752 917,752 915,750 916,744 918,735 917,721 915,716 916,704 916,699 917,681">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1590_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1590_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1590_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1590_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1590_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1590_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1590_7"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_7" ulx="262" uly="746" lrx="1104" lry="819">
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1591" ulx="262" uly="750" lrx="519" lry="818" points="262,750 261,817 262,818 519,818 520,812 519,808 518,803 520,796 518,789 520,770 520,760 519,750">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1591_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1591_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1591_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1591_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1592" ulx="520" uly="748" lrx="744" lry="819" points="520,748 519,757 519,762 519,768 519,779 519,783 519,794 518,803 520,806 519,809 520,813 521,816 520,819 744,819 743,802 745,796 745,784 744,781 745,777 746,772 745,766 745,763 744,748">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1592_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1592_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1592_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1592_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1592_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1592_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1592_7"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1592_8"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1592_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1593" ulx="745" uly="747" lrx="805" lry="816" points="745,747 746,769 746,773 745,777 745,781 746,785 746,788 746,791 745,816 805,816 805,795 803,787 801,783 804,775 804,760 805,747">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1593_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1593_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1594" ulx="806" uly="746" lrx="956" lry="815" points="806,746 807,760 805,772 803,777 801,782 803,786 802,789 806,796 805,806 806,815 956,815 956,794 958,785 959,771 957,766 956,746">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1594_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1594_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1594_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1594_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1594_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1594_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1594_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1595" ulx="957" uly="746" lrx="1033" lry="814" points="957,746 956,754 957,757 958,768 958,786 957,791 957,814 1033,814 1032,797 1033,786 1034,780 1032,751 1033,746">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1595_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1595_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1595_3"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_8" ulx="262" uly="810" lrx="1091" lry="882">
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1596" ulx="262" uly="814" lrx="370" lry="882" points="262,814 261,817 262,882 370,882 370,870 373,866 375,854 374,839 371,833 370,814">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1596_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1596_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1596_3"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1597" ulx="371" uly="814" lrx="623" lry="882" points="371,814 370,819 372,834 374,839 375,854 373,866 371,870 371,882 623,882 624,881 622,870 624,865 626,860 628,854 628,850 624,840 624,837 624,824 623,814">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1597_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1597_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1597_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1597_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1597_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1597_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1597_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1598" ulx="624" uly="814" lrx="683" lry="882" points="624,814 623,825 625,844 628,850 628,854 626,860 624,865 624,882 683,882 683,873 683,869 682,866 678,857 677,854 681,846 683,842 682,838 684,832 682,819 683,814">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1598_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1598_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1599" ulx="684" uly="813" lrx="774" lry="882" points="684,813 683,836 683,842 681,846 677,854 678,857 682,866 683,869 684,873 684,882 774,882 773,874 776,865 774,862 775,855 776,849 775,845 776,841 775,838 774,813">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1599_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1599_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1599_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1599_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1600" ulx="775" uly="813" lrx="838" lry="881" points="775,813 776,824 774,832 777,840 775,844 776,847 776,851 775,855 776,865 775,881 838,881 838,870 839,867 838,864 840,856 838,853 838,849 839,846 839,840 839,836 837,821 838,813">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1600_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1600_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1601" ulx="839" uly="810" lrx="1028" lry="881" points="839,810 838,827 840,837 840,843 840,856 840,865 838,870 839,881 1028,881 1027,864 1028,839 1027,836 1028,810">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1601_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1601_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1601_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1601_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1601_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1601_6"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_9" ulx="270" uly="881" lrx="1064" lry="949">
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1602" ulx="270" uly="881" lrx="475" lry="949" points="270,881 269,927 269,946 270,949 475,949 475,941 474,933 471,927 474,923 475,906 474,900 475,881">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1602_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1602_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1602_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1602_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1602_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1602_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1602_7"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_10" ulx="247" uly="949" lrx="1176" lry="1019">
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1603" ulx="247" uly="951" lrx="433" lry="1019" points="247,951 246,979 246,988 248,1016 247,1019 433,1019 433,1009 432,1005 432,1002 431,998 430,991 432,986 433,974 432,970 433,951">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1603_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1603_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1604" ulx="434" uly="950" lrx="637" lry="1019" points="434,950 433,985 430,992 431,998 432,1002 432,1005 434,1009 434,1019 637,1019 635,1016 637,1003 637,999 636,994 636,990 636,985 636,982 636,978 637,950">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1604_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1604_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1604_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1604_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1604_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1604_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1604_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1605" ulx="638" uly="949" lrx="865" lry="1018" points="638,949 637,976 635,979 635,983 635,987 635,991 636,994 638,1002 636,1014 638,1018 865,1018 865,998 864,994 865,990 864,984 864,980 865,966 863,962 863,956 865,949">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1605_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1605_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1605_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1605_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1605_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1605_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1605_7"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-wp_PsautierIMS-16-62_PsautierIMS-16-62_27_1606_1" ulx="866" uly="949" lrx="1033" lry="1018" points="866,949 864,952 866,956 869,961 866,966 865,978 865,981 864,984 865,990 866,994 865,998 866,1002 866,1018 1033,1018 1033,1000 1034,995 1032,976 1034,967 1032,954 1032,951 1033,949">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1606_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1606_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1606_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1606_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1606_5"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_11" ulx="264" uly="1018" lrx="1176" lry="1087">
+                        <zone type="word" xml:id="zone-wp_PsautierIMS-16-62_PsautierIMS-16-62_27_1606_2" ulx="264" uly="1018" lrx="524" lry="1086" points="264,1018 263,1023 263,1042 264,1086 524,1086 523,1072 523,1058 524,1047 523,1044 524,1018">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1606_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1606_7"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1606_8"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1606_9"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1606_10"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1606_11"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1606_12"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1607" ulx="525" uly="1018" lrx="603" lry="1086" points="525,1018 524,1054 525,1086 603,1086 603,1071 602,1064 600,1057 601,1049 602,1041 602,1038 604,1023 603,1018">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1607_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1607_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1608" ulx="604" uly="1018" lrx="813" lry="1086" points="604,1018 603,1036 603,1039 604,1043 601,1048 600,1058 602,1064 604,1071 604,1086 813,1086 813,1080 812,1077 812,1070 812,1046 813,1018">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1608_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1608_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1608_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1608_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1608_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1608_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1608_7"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1608_8"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1609" ulx="814" uly="1018" lrx="947" lry="1087" points="814,1018 815,1038 813,1045 814,1087 947,1087 947,1072 946,1066 946,1063 944,1059 944,1055 946,1042 946,1038 944,1034 946,1028 946,1024 947,1018">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1609_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1609_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1609_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1609_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1609_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1609_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-wp_PsautierIMS-16-62_PsautierIMS-16-62_27_1610_1" ulx="948" uly="1018" lrx="1066" lry="1086" points="948,1018 947,1025 946,1033 948,1037 946,1041 944,1055 944,1059 946,1063 946,1066 948,1073 948,1086 1066,1086 1066,1084 1063,1080 1064,1077 1066,1073 1066,1069 1066,1066 1066,1062 1066,1058 1061,1053 1065,1049 1067,1035 1066,1032 1067,1029 1063,1023 1066,1018">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1610_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1610_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1610_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1610_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1610_5"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_12" ulx="265" uly="1081" lrx="1059" lry="1151">
+                        <zone type="word" xml:id="zone-wp_PsautierIMS-16-62_PsautierIMS-16-62_27_1610_2" ulx="265" uly="1081" lrx="597" lry="1151" points="265,1081 264,1150 265,1151 597,1151 597,1139 597,1135 597,1132 596,1128 597,1109 596,1106 597,1081">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1610_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1610_7"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1610_8"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1610_9"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1610_10"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1610_11"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1610_12"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1610_13"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1610_14"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_13" ulx="251" uly="1153" lrx="1036" lry="1226">
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1611" ulx="251" uly="1158" lrx="443" lry="1226" points="251,1158 250,1161 252,1164 249,1167 249,1171 251,1174 251,1178 251,1226 443,1226 443,1214 440,1203 439,1196 441,1191 442,1183 443,1158">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1611_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1611_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1612" ulx="444" uly="1156" lrx="744" lry="1226" points="444,1156 443,1180 444,1185 439,1197 440,1203 444,1215 444,1226 744,1226 743,1223 744,1218 743,1215 743,1205 743,1193 744,1176 743,1173 744,1156">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1612_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1612_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1612_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1612_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1612_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1612_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1612_7"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1612_8"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1612_9"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1613" ulx="745" uly="1156" lrx="805" lry="1224" points="745,1156 744,1161 746,1170 746,1191 744,1199 744,1209 745,1224 805,1224 805,1211 806,1207 804,1194 806,1182 806,1179 804,1168 805,1156">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1613_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1613_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1614" ulx="806" uly="1155" lrx="931" lry="1224" points="806,1155 805,1197 806,1224 931,1224 930,1222 931,1214 930,1211 930,1198 930,1178 930,1164 931,1155">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1614_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1614_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1614_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1614_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-wp_PsautierIMS-16-62_PsautierIMS-16-62_27_1615_1" ulx="932" uly="1153" lrx="1036" lry="1222" points="932,1153 931,1175 932,1182 931,1200 931,1205 931,1215 932,1222 1036,1222 1035,1220 1035,1208 1035,1200 1035,1191 1035,1184 1035,1160 1036,1153">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1615_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1615_2"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_14" ulx="269" uly="1222" lrx="1158" lry="1296">
+                        <zone type="word" xml:id="zone-wp_PsautierIMS-16-62_PsautierIMS-16-62_27_1615_2" ulx="269" uly="1228" lrx="413" lry="1296" points="269,1228 269,1296 413,1296 413,1283 416,1278 413,1275 413,1272 416,1269 414,1258 416,1252 416,1245 412,1235 413,1228">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1615_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1615_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1615_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1616" ulx="414" uly="1226" lrx="622" lry="1296" points="414,1226 413,1234 413,1237 413,1240 416,1245 416,1252 414,1258 416,1269 414,1273 416,1278 414,1282 414,1296 622,1296 623,1280 621,1274 622,1226">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1616_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1616_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1616_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1616_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1616_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1616_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1617" ulx="623" uly="1225" lrx="675" lry="1294" points="623,1225 624,1233 624,1239 624,1245 623,1248 622,1254 622,1258 622,1272 623,1276 624,1283 623,1294 675,1294 676,1279 674,1260 675,1225">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1617_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1617_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1618" ulx="676" uly="1223" lrx="910" lry="1293" points="676,1223 675,1248 675,1264 676,1293 910,1293 910,1269 908,1265 908,1262 909,1256 908,1253 909,1250 910,1242 909,1238 910,1223">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1618_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1618_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1618_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1618_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1618_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1618_6"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1619" ulx="911" uly="1222" lrx="1043" lry="1291" points="911,1222 912,1224 910,1237 911,1242 908,1253 909,1256 908,1262 908,1265 910,1269 911,1274 912,1279 910,1285 911,1291 1043,1291 1042,1241 1043,1222">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1619_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1619_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1619_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1619_4"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_15" ulx="258" uly="1292" lrx="1226" lry="1363">
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1620" ulx="278" uly="1295" lrx="353" lry="1363" points="278,1295 277,1354 279,1358 276,1361 278,1363 353,1363 354,1362 352,1356 352,1338 352,1326 352,1319 352,1304 353,1295">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1620_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1620_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1621" ulx="354" uly="1292" lrx="651" lry="1363" points="354,1292 353,1327 353,1330 353,1337 353,1356 354,1363 651,1363 651,1361 651,1358 650,1353 650,1337 650,1319 651,1292">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1621_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1621_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1621_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1621_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1621_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1621_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1621_7"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1621_8"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1621_9"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1621_10"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-pc_PsautierIMS-16-62_1622" ulx="652" uly="1292" lrx="672" lry="1360" points="652,1292 651,1334 650,1337 652,1345 652,1350 651,1358 652,1360 672,1360 671,1356 671,1352 671,1349 673,1346 670,1341 662,1331 660,1325 657,1321 671,1306 672,1292">
+                            <zone type="character" xml:id="zone-c_pc_PsautierIMS-16-62_1622_1"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_16" ulx="248" uly="1350" lrx="1222" lry="1428">
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1623" ulx="265" uly="1360" lrx="450" lry="1428" points="265,1360 262,1364 260,1369 263,1373 266,1378 265,1428 450,1428 450,1414 450,1411 453,1407 450,1403 452,1398 452,1394 453,1389 454,1385 453,1379 451,1376 450,1360">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1623_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1623_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1624" ulx="451" uly="1358" lrx="814" lry="1428" points="451,1358 452,1377 451,1381 454,1385 453,1389 452,1394 452,1398 451,1404 453,1407 451,1411 450,1414 452,1417 451,1428 814,1428 814,1427 811,1417 813,1414 812,1411 814,1406 812,1403 813,1391 814,1385 814,1381 813,1376 814,1358">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1624_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1624_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1624_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1624_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1624_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1624_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1624_7"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1624_8"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1624_9"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1624_10"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1624_11"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1625" ulx="815" uly="1350" lrx="1038" lry="1426" points="815,1350 815,1352 816,1368 812,1379 814,1383 813,1391 812,1402 815,1405 812,1410 813,1414 811,1417 815,1426 1038,1426 1038,1350">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1625_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1625_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1625_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1625_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1625_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1625_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1625_7"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_17" ulx="268" uly="1426" lrx="1225" lry="1495">
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1626" ulx="268" uly="1426" lrx="352" lry="1494" points="268,1426 266,1429 268,1434 267,1484 268,1494 352,1494 351,1487 353,1479 350,1474 352,1464 350,1461 350,1457 351,1454 352,1450 351,1444 351,1439 351,1436 352,1426">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1626_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1626_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1627" ulx="353" uly="1426" lrx="539" lry="1494" points="353,1426 350,1438 349,1441 353,1447 353,1451 350,1457 350,1461 352,1464 350,1474 353,1479 352,1492 353,1494 539,1494 538,1455 538,1440 539,1426">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1627_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1627_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1627_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1627_4"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1628" ulx="540" uly="1426" lrx="597" lry="1494" points="540,1426 539,1449 539,1457 539,1464 540,1468 540,1494 597,1494 596,1483 597,1478 596,1473 596,1465 596,1455 597,1426">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1628_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1628_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1629" ulx="598" uly="1426" lrx="727" lry="1494" points="598,1426 597,1456 597,1462 595,1467 596,1473 598,1479 598,1483 598,1494 727,1494 726,1472 727,1466 726,1461 726,1449 726,1436 727,1426">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1629_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1629_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1629_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1629_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1629_5"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1630" ulx="728" uly="1426" lrx="803" lry="1494" points="728,1426 727,1439 727,1443 727,1447 727,1453 727,1457 727,1476 727,1484 728,1494 803,1494 802,1472 803,1451 804,1446 803,1426">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1630_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1630_2"/>
+                        </zone>
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1631" ulx="804" uly="1426" lrx="1027" lry="1495" points="804,1426 805,1441 804,1445 804,1449 803,1468 804,1473 804,1495 1027,1495 1027,1426">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1631_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1631_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1631_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1631_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1631_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1631_6"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1631_7"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1631_8"/>
+                        </zone>
+                    </zone>
+                    <zone type="line" xml:id="zone-line_PsautierIMS-16-62_27_1_18" ulx="263" uly="1495" lrx="1052" lry="1563">
+                        <zone type="word" xml:id="zone-w_PsautierIMS-16-62_1632" ulx="277" uly="1495" lrx="514" lry="1563" points="277,1495 276,1498 277,1501 276,1504 276,1508 277,1511 277,1563 514,1563 513,1547 514,1538 515,1532 513,1516 514,1495">
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1632_1"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1632_2"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1632_3"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1632_4"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1632_5"/>
+                            <zone type="character" xml:id="zone-c_w_PsautierIMS-16-62_1632_6"/>
+                        </zone>
+                    </zone>
+                </zone>
+            </zone>
+        </surface>
+    </facsimile>
+</TEI>

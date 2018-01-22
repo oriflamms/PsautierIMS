@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Linking data for document transcriptions and image zones (PsautierIMS-05-10-w)</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Oriflamms project ((http://oriflamms.hypotheses.org))</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from Oriflamms XML-TEI transcription file</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <listPrefixDef>
+                <prefixDef ident="txt" matchPattern="([a-z]+)" replacementPattern="../texts/PsautierIMS-05-10-c.xml#$1"/>
+                <prefixDef ident="img" matchPattern="([a-z]+)" replacementPattern="../zones/PsautierIMS-05-10_surf_PsautierIMS-05-10_btv1b55009437p_f266-zones.xml#$1"/>
+            </listPrefixDef>
+        </encodingDesc>
+        <revisionDesc>
+            <change when="2016-06-18">File created</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <ab type="linking">
+                <linkGrp type="surfaces"/>
+                <linkGrp type="pages">
+                    <link target="txt:page_PsautierIMS-05-10_10 img:zone-page_PsautierIMS-05-10_10"/>
+                </linkGrp>
+                <linkGrp type="columns">
+                    <link target="txt:col_PsautierIMS-05-10_10_1 img:zone-col_PsautierIMS-05-10_10_1"/>
+                </linkGrp>
+                <linkGrp type="lines">
+                    <link target="txt:line_PsautierIMS-05-10_10_1_1 img:zone-line_PsautierIMS-05-10_10_1_1"/>
+                    <link target="txt:line_PsautierIMS-05-10_10_1_2 img:zone-line_PsautierIMS-05-10_10_1_2"/>
+                    <link target="txt:line_PsautierIMS-05-10_10_1_3 img:zone-line_PsautierIMS-05-10_10_1_3"/>
+                    <link target="txt:line_PsautierIMS-05-10_10_1_4 img:zone-line_PsautierIMS-05-10_10_1_4"/>
+                </linkGrp>
+                <linkGrp type="words">
+                    <link target="txt:w_PsautierIMS-05-10_661 img:zone-w_PsautierIMS-05-10_661"/>
+                    <link target="txt:w_PsautierIMS-05-10_663 img:zone-w_PsautierIMS-05-10_663"/>
+                    <link target="txt:w_PsautierIMS-05-10_664 img:zone-w_PsautierIMS-05-10_664"/>
+                    <link target="txt:w_PsautierIMS-05-10_665 img:zone-w_PsautierIMS-05-10_665"/>
+                    <link target="txt:w_PsautierIMS-05-10_666 img:zone-w_PsautierIMS-05-10_666"/>
+                    <link target="txt:w_PsautierIMS-05-10_667 img:zone-w_PsautierIMS-05-10_667"/>
+                    <link target="txt:w_PsautierIMS-05-10_668 img:zone-w_PsautierIMS-05-10_668"/>
+                    <link target="txt:w_PsautierIMS-05-10_669 img:zone-w_PsautierIMS-05-10_669"/>
+                    <link target="txt:w_PsautierIMS-05-10_670 img:zone-w_PsautierIMS-05-10_670"/>
+                    <link target="txt:w_PsautierIMS-05-10_671 img:zone-w_PsautierIMS-05-10_671"/>
+                    <link target="txt:w_PsautierIMS-05-10_672 img:zone-w_PsautierIMS-05-10_672"/>
+                    <link target="txt:pc_PsautierIMS-05-10_673 img:zone-pc_PsautierIMS-05-10_673"/>
+                    <link target="txt:w_PsautierIMS-05-10_674 img:zone-w_PsautierIMS-05-10_674"/>
+                    <link target="txt:w_PsautierIMS-05-10_675 img:zone-w_PsautierIMS-05-10_675"/>
+                    <link target="txt:w_PsautierIMS-05-10_676 img:zone-w_PsautierIMS-05-10_676"/>
+                    <link target="txt:w_PsautierIMS-05-10_677 img:zone-w_PsautierIMS-05-10_677"/>
+                    <link target="txt:w_PsautierIMS-05-10_678 img:zone-w_PsautierIMS-05-10_678"/>
+                    <link target="txt:wp_PsautierIMS-05-10_PsautierIMS-05-10_10_679_1 img:zone-wp_PsautierIMS-05-10_PsautierIMS-05-10_10_679_1"/>
+                    <link target="txt:wp_PsautierIMS-05-10_PsautierIMS-05-10_10_679_2 img:zone-wp_PsautierIMS-05-10_PsautierIMS-05-10_10_679_2"/>
+                    <link target="txt:w_PsautierIMS-05-10_680 img:zone-w_PsautierIMS-05-10_680"/>
+                    <link target="txt:w_PsautierIMS-05-10_681 img:zone-w_PsautierIMS-05-10_681"/>
+                    <link target="txt:w_PsautierIMS-05-10_682 img:zone-w_PsautierIMS-05-10_682"/>
+                    <link target="txt:w_PsautierIMS-05-10_683 img:zone-w_PsautierIMS-05-10_683"/>
+                    <link target="txt:pc_PsautierIMS-05-10_684 img:zone-pc_PsautierIMS-05-10_684"/>
+                </linkGrp>
+                <linkGrp type="characters">
+                    <link target="txt:c_w_PsautierIMS-05-10_661_1 img:zone-c_w_PsautierIMS-05-10_661_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_661_2 img:zone-c_w_PsautierIMS-05-10_661_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_661_3 img:zone-c_w_PsautierIMS-05-10_661_3"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_661_4 img:zone-c_w_PsautierIMS-05-10_661_4"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_661_5 img:zone-c_w_PsautierIMS-05-10_661_5"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_661_6 img:zone-c_w_PsautierIMS-05-10_661_6"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_661_7 img:zone-c_w_PsautierIMS-05-10_661_7"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_661_8 img:zone-c_w_PsautierIMS-05-10_661_8"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_663_1 img:zone-c_w_PsautierIMS-05-10_663_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_663_2 img:zone-c_w_PsautierIMS-05-10_663_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_664_1 img:zone-c_w_PsautierIMS-05-10_664_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_664_2 img:zone-c_w_PsautierIMS-05-10_664_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_664_3 img:zone-c_w_PsautierIMS-05-10_664_3"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_664_4 img:zone-c_w_PsautierIMS-05-10_664_4"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_664_5 img:zone-c_w_PsautierIMS-05-10_664_5"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_665_1 img:zone-c_w_PsautierIMS-05-10_665_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_665_2 img:zone-c_w_PsautierIMS-05-10_665_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_665_3 img:zone-c_w_PsautierIMS-05-10_665_3"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_665_4 img:zone-c_w_PsautierIMS-05-10_665_4"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_666_1 img:zone-c_w_PsautierIMS-05-10_666_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_666_2 img:zone-c_w_PsautierIMS-05-10_666_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_666_3 img:zone-c_w_PsautierIMS-05-10_666_3"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_667_1 img:zone-c_w_PsautierIMS-05-10_667_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_667_2 img:zone-c_w_PsautierIMS-05-10_667_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_668_1 img:zone-c_w_PsautierIMS-05-10_668_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_668_2 img:zone-c_w_PsautierIMS-05-10_668_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_669_1 img:zone-c_w_PsautierIMS-05-10_669_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_669_2 img:zone-c_w_PsautierIMS-05-10_669_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_669_3 img:zone-c_w_PsautierIMS-05-10_669_3"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_669_4 img:zone-c_w_PsautierIMS-05-10_669_4"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_670_1 img:zone-c_w_PsautierIMS-05-10_670_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_670_2 img:zone-c_w_PsautierIMS-05-10_670_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_670_3 img:zone-c_w_PsautierIMS-05-10_670_3"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_671_1 img:zone-c_w_PsautierIMS-05-10_671_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_671_2 img:zone-c_w_PsautierIMS-05-10_671_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_672_1 img:zone-c_w_PsautierIMS-05-10_672_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_672_2 img:zone-c_w_PsautierIMS-05-10_672_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_672_3 img:zone-c_w_PsautierIMS-05-10_672_3"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_672_4 img:zone-c_w_PsautierIMS-05-10_672_4"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_672_5 img:zone-c_w_PsautierIMS-05-10_672_5"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_672_6 img:zone-c_w_PsautierIMS-05-10_672_6"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_672_7 img:zone-c_w_PsautierIMS-05-10_672_7"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_672_8 img:zone-c_w_PsautierIMS-05-10_672_8"/>
+                    <link target="txt:c_pc_PsautierIMS-05-10_673_1 img:zone-c_pc_PsautierIMS-05-10_673_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_674_1 img:zone-c_w_PsautierIMS-05-10_674_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_674_2 img:zone-c_w_PsautierIMS-05-10_674_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_674_3 img:zone-c_w_PsautierIMS-05-10_674_3"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_674_4 img:zone-c_w_PsautierIMS-05-10_674_4"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_674_5 img:zone-c_w_PsautierIMS-05-10_674_5"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_675_1 img:zone-c_w_PsautierIMS-05-10_675_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_675_2 img:zone-c_w_PsautierIMS-05-10_675_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_675_3 img:zone-c_w_PsautierIMS-05-10_675_3"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_675_4 img:zone-c_w_PsautierIMS-05-10_675_4"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_675_5 img:zone-c_w_PsautierIMS-05-10_675_5"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_675_6 img:zone-c_w_PsautierIMS-05-10_675_6"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_675_7 img:zone-c_w_PsautierIMS-05-10_675_7"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_676_1 img:zone-c_w_PsautierIMS-05-10_676_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_676_2 img:zone-c_w_PsautierIMS-05-10_676_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_676_3 img:zone-c_w_PsautierIMS-05-10_676_3"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_676_4 img:zone-c_w_PsautierIMS-05-10_676_4"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_676_5 img:zone-c_w_PsautierIMS-05-10_676_5"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_677_1 img:zone-c_w_PsautierIMS-05-10_677_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_677_2 img:zone-c_w_PsautierIMS-05-10_677_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_677_3 img:zone-c_w_PsautierIMS-05-10_677_3"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_677_4 img:zone-c_w_PsautierIMS-05-10_677_4"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_677_5 img:zone-c_w_PsautierIMS-05-10_677_5"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_677_6 img:zone-c_w_PsautierIMS-05-10_677_6"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_677_7 img:zone-c_w_PsautierIMS-05-10_677_7"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_677_8 img:zone-c_w_PsautierIMS-05-10_677_8"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_677_9 img:zone-c_w_PsautierIMS-05-10_677_9"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_677_10 img:zone-c_w_PsautierIMS-05-10_677_10"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_678_1 img:zone-c_w_PsautierIMS-05-10_678_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_679_1 img:zone-c_w_PsautierIMS-05-10_679_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_679_2 img:zone-c_w_PsautierIMS-05-10_679_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_679_3 img:zone-c_w_PsautierIMS-05-10_679_3"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_679_4 img:zone-c_w_PsautierIMS-05-10_679_4"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_679_5 img:zone-c_w_PsautierIMS-05-10_679_5"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_680_1 img:zone-c_w_PsautierIMS-05-10_680_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_680_2 img:zone-c_w_PsautierIMS-05-10_680_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_680_3 img:zone-c_w_PsautierIMS-05-10_680_3"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_680_4 img:zone-c_w_PsautierIMS-05-10_680_4"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_681_1 img:zone-c_w_PsautierIMS-05-10_681_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_681_2 img:zone-c_w_PsautierIMS-05-10_681_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_682_1 img:zone-c_w_PsautierIMS-05-10_682_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_682_2 img:zone-c_w_PsautierIMS-05-10_682_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_682_3 img:zone-c_w_PsautierIMS-05-10_682_3"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_682_4 img:zone-c_w_PsautierIMS-05-10_682_4"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_682_5 img:zone-c_w_PsautierIMS-05-10_682_5"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_682_6 img:zone-c_w_PsautierIMS-05-10_682_6"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_683_1 img:zone-c_w_PsautierIMS-05-10_683_1"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_683_2 img:zone-c_w_PsautierIMS-05-10_683_2"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_683_3 img:zone-c_w_PsautierIMS-05-10_683_3"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_683_4 img:zone-c_w_PsautierIMS-05-10_683_4"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_683_5 img:zone-c_w_PsautierIMS-05-10_683_5"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_683_6 img:zone-c_w_PsautierIMS-05-10_683_6"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_683_7 img:zone-c_w_PsautierIMS-05-10_683_7"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_683_8 img:zone-c_w_PsautierIMS-05-10_683_8"/>
+                    <link target="txt:c_w_PsautierIMS-05-10_683_9 img:zone-c_w_PsautierIMS-05-10_683_9"/>
+                    <link target="txt:c_pc_PsautierIMS-05-10_684_1 img:zone-c_pc_PsautierIMS-05-10_684_1"/>
+                </linkGrp>
+            </ab>
+        </body>
+    </text>
+</TEI>

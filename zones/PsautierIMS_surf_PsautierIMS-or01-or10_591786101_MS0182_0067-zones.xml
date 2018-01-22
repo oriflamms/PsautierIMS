@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Image zones for surf_PsautierIMS-or01-or10_591786101_MS0182_0067</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Oriflamms project</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Converted from Oriflamms XML-TEI transcription file</p>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change when="2016-06-19">File created</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile xml:base="../img/">
+      <surface xml:id="surf_imgPsautierIMS-or01-or10_591786101_MS0182_0067">
+         <graphic url="591786101_MS0182_0067.jpg"/>
+      </surface>
+   </facsimile>
+</TEI>

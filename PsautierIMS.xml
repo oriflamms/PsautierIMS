@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Quelques notes : 
+    Mazarine: michi inimici : deux fois abrégé de la même façon 
+jeu de perles: exprobrabant ; quacumque ; tanquam ; manducabam ; conveniendo ; interemptorum (i&tilde-n;t&tilde-vertical-er;e&tilde-m;pto&r-rond-barré-rum;) ; compeditorum ;
+annuntient;
+generatio et generatio, aussi avec (ratio) => observer évolution;
+contre "factus" multiples abréviations pour le même mot--><teiCorpus xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+                <principal xml:id="DS"><forename>Dominique</forename>
+                    <surname>Stutzmann</surname></principal>
+                <author>Denis Muzerelle</author>
+                <author>Carla Bozzolo</author>
+                <author>Dominique Coq</author>
+                <author>Ezio Ornato</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+
+            <sourceDesc>
+                <p>Cette édition est fondée sur le fichier "ABREV101.DAT" de Denis Muzerelle,
+                    cumulant les relevés de Carla Bozzolo, Dominique Coq, Denis Muzerelle et Ezio
+                    Ornato sur 150 manuscrits et imprimés</p>
+                <p>Seules les transcriptions de manuscrits ont été conservées</p>
+                <p>Ces transcriptions ont été enrichies de <list>
+                        <item>l'analyse des abréviations à un niveau plus fin que le niveau du
+                            mot,</item>
+                        <item>la ponctuation d'après les originaux</item>
+                        <item>l'indication des changements de ligne</item>
+                    </list></p>
+                <p>De nouvelles transcriptions ont été ajoutées.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <TEI><teiHeader><fileDesc><titleStmt><title>Acte original </title><author/></titleStmt><publicationStmt><p>See the header of the teiCorpus</p></publicationStmt><sourceDesc><listWit>
+                        <witness n="A"><msDesc>
+                                <msIdentifier>
+                                    <repository>DOUAI.</repository>
+                                    <idno>182</idno>
+                                </msIdentifier>
+                                <msContents>
+                                    <summary>HF</summary>
+                                </msContents>
+                                <additional>
+                                    <surrogates>MF50801</surrogates>
+                                </additional>
+                            </msDesc></witness>
+                    </listWit></sourceDesc></fileDesc><profileDesc><creation/></profileDesc></teiHeader><text>
+                <body>
+                    
+                    <p><pb n="55v" facs="591786101_MS0182_0067.jpg"/><lb/><milestone unit="vers" n="101:2"/>domine exaudi <choice><expan ana="ori:align-no">or<ex>ati</ex>o<ex>n</ex></expan><abbr>or<am>̃</am>o</abbr></choice>em meam <lb/>et clamor meus
+                        ad te veniat <pb n="56r"/><lb/><milestone unit="vers" n="101:3"/>non avertas
+                        faciem tuam a me <lb/>in quacu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice><choice><expan ana="ori:align-no">q<ex>ue</ex></expan><abbr>q<am></am></abbr></choice> die tribulor
+                        inclina <sic>a</sic>
+                        <lb/>me aurem tuam in quacum<choice><expan ana="ori:align-no">q<ex>ue</ex></expan><abbr>q<am></am></abbr></choice> die <lb/>invocavero te
+                        velociter exaudi me<milestone unit="vers" n="101:4"/>
+                        <lb/>quia defecerunt sicut fumus di<lb break="no"/>es mei et ossa mea sicut
+                        cremium <lb/>aruerunt <milestone unit="vers" n="101:5"/>percussus sum ut
+                        fenu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>et aruit cor meum quia oblitus <lb/>sum comedere panem
+                        meum<milestone unit="vers" n="101:6"/>a vo<lb break="no"/>ce gemitus mei
+                        adhesit os meum <lb/>carni mee<milestone unit="vers" n="101:7"/>similis
+                        factus sum pel<lb break="no"/>licano solitudinis factus sum
+                        sic<choice><expan ana="ori:align-no"><ex>ut</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>niticorax in domicilio <milestone unit="vers" n="101:8"/>vigilavi <lb/>et factus sum sicut passer <sic>sollita<lb break="no"/>rius</sic> in tecto<milestone unit="vers" n="101:9"/>tota die exprobra<lb break="no"/>bant michi inimici mei et qui
+                        <lb/>laudabant me adversum me ju<lb break="no"/>rabant <milestone unit="vers" n="101:10"/>quia cinerem tanqua<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <pb n="56v" facs="591786101_MS0182_0068.jpg"/><lb/>panem manducabam et potum me<lb break="no"/>um cum fletu miscebam <milestone unit="vers" n="101:11"/>a
+                        facie <lb/>ire <supplied ana="ori:align-no">et</supplied> indignationis tue quia
+                        eleva<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s <lb/><sic>allixisti</sic> me<milestone unit="vers" n="101:12"/>dies mei sicut um<lb break="no"/>bra declinaverunt et ego
+                        sicut fenu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>arui <milestone unit="vers" n="101:13"/>tu autem
+                        domine in eternu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>permanes et memoriale tuum in
+                            <lb/>generatione<supplied ana="ori:align-no">m</supplied> et generationem <milestone unit="vers" n="101:14"/>tu <lb/>exurgens domine misereberis syon
+                        <lb/>quia tempus miserendi ejus quia <lb/>venit tempus <milestone unit="vers" n="101:15"/><choice><expan ana="ori:align-no">q<ex>uonia</ex>m</expan><abbr>qm<am>̃</am></abbr></choice> placuerunt <lb/>servis tuis
+                        lapides ejus et terre ei<choice><expan ana="ori:align-no"><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> <lb/>miserebuntur<milestone unit="vers" n="101:16"/>et timebunt gen<lb break="no"/>tes nomen tuum
+                        domine et <choice><expan ana="ori:align-no">om<ex>ne</ex></expan><abbr>om<am>̃</am></abbr></choice>s <lb/>reges terre gloriam tuam <milestone unit="vers" n="101:17"/>quia <lb/>edificavit dominus
+                            <surplus>ex</surplus> syon et vi<lb break="no"/>debitur in gloria sua
+                            <milestone unit="vers" n="101:18"/>respexit <lb/>in orationem humilium
+                        et non <pb n="56bisr"/><lb/>sprevit precem eorum <milestone unit="vers" n="101:19"/>scribant<choice><expan ana="ori:align-no"><ex>ur</ex></expan><abbr><am>᷑</am></abbr></choice> <lb/>hec in generatione altera et
+                            popu<lb break="no"/>lus qui creabitur laudabit <choice><expan ana="ori:align-no">d<ex>omi</ex>n<ex>u</ex></expan><abbr>dn<am>̃</am></abbr></choice>m
+                            <lb/><milestone unit="vers" n="101:20"/>quia prospexit de excelso san<lb break="no"/>cto suo dominus de celo in terram <lb/>aspexit<milestone unit="vers" n="101:21"/>ut audiret gemitus com<lb break="no"/>peditorum
+                        ut solveret filios intere<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>p<lb break="no"/>torum <milestone unit="vers" n="101:22"/>ut annuntient in syon <lb/>nomen domini et
+                        laudem ejus in <lb/>iherusalem<milestone unit="vers" n="101:23"/>in
+                        conveniendo popu<lb break="no"/>los in unum et reges ut serviant do<lb break="no"/>mino <milestone unit="vers" n="101:24"/>respondit ei in via
+                        virtutis <lb/>sue paucitatem dierum meorum <lb/>nuntia michi<milestone unit="vers" n="101:25"/>ne revoces me in di<lb break="no"/>midio dierum
+                        meorum in genera<choice><expan ana="ori:align-no">t<ex>i</ex>o<ex>n</ex></expan><abbr>to<am>̃</am></abbr></choice>e <lb/>et generatione<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> anni tui
+                            <milestone unit="vers" n="101:26"/>initio tu <lb/>domine terram fundasti
+                        et opera <lb/>manuum tuarum sunt celi <milestone unit="vers" n="101:27"/>ipsi <pb n="56bisv" facs="591786101_MS0182_0069.jpg"/><lb/>peribunt tu
+                        autem <surplus>domine</surplus> perma<lb break="no"/>nes et omnes sicut
+                        vestimentum <lb/>veterascent et sicut opertorium <lb/>mutabis eos et
+                        mutabuntur <milestone unit="vers" n="101:28"/>tu <lb/>autem idem
+                        <choice><expan ana="ori:align-no">ip<ex>s</ex></expan><abbr>ip<am>̃</am></abbr></choice>e es et anni tui no<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>deficient <milestone unit="vers" n="101:29"/>filii servorum tuorum <lb/>habitabunt et semen
+                        eorum in se<lb break="no"/>culum dirigetur Gloria<pc rend="punctus">.</pc>
+                        <hi rend="red"><choice><expan ana="ori:align-no">ps<ex>almus</ex></expan><abbr>ps<am>̃</am></abbr></choice></hi><pc rend="punctus">.</pc></p>
+                </body>
+            </text></TEI><TEI><teiHeader><fileDesc><titleStmt><title>Acte original </title><author/></titleStmt><publicationStmt><p>See the header of the teiCorpus</p></publicationStmt><sourceDesc><listWit>
+                        <witness n="A"><msDesc>
+                                <msIdentifier>
+                                    <repository>ARS.</repository>
+                                    <idno>569</idno>
+                                </msIdentifier>
+                                <msContents>
+                                    <summary>HF</summary>
+                                </msContents>
+                                <additional>
+                                    <surrogates>http://gallica.bnf.fr/ark:/12148/btv1b55009437p/f262</surrogates>
+                                </additional>
+                            </msDesc></witness>
+                    </listWit></sourceDesc></fileDesc><profileDesc><creation/></profileDesc></teiHeader><text>
+                <body>
+                    
+                    <p>
+                        <pb n="127v" facs="btv1b55009437p_f262.jpg"/>
+                        <lb/><milestone unit="vers" n="101:2"/><hi rend="initiale 2">D</hi>omine
+                        exaudi oratione<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>mea<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice><pc rend="colon">:</pc> et clamor meus
+                        ad <lb/>te veniat<pc rend="punctus">.</pc><milestone unit="vers" n="101:3"/><hi rend="initiale 1 filig">N</hi>on avertas facie<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>tuam a me
+                        in quacu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice><choice><expan ana="ori:align-no">q<ex>ue</ex></expan><abbr>q<am></am></abbr></choice> die tribu<lb break="no"/>lor inclina
+                        ad me aurem tuam<pc rend="punctus">.</pc>
+                        <lb/><hi rend="initiale 1 filig">I</hi>n quacu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice><choice><expan ana="ori:align-no">q<ex>ue</ex></expan><abbr>q<am></am></abbr></choice>
+                        die invocavero <lb/>te velociter exaudi me<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:4"/><hi rend="initiale 1 filig">Q</hi>uia
+                        <lb/>defecerunt sicut fumus dies mei <lb/>et ossa mea sicut cremiu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>
+                            arue<lb break="no"/>runt<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:5"/>percussus sum ut fenu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>et
+                        aruit cor meu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice><pc rend="colon">:</pc> quia oblitus <lb/>sum comedere
+                        panem meum<pc rend="punctus">.</pc><lb/><milestone unit="vers" n="101:6"/>a voce
+                        gemitus mei adhesit <lb/>os meum carni mee <milestone unit="vers" n="101:7"/>similis <lb/>factus sum pellicano solitudi<pb break="no" n="128r" facs="btv1b55009437p_f263.jpg"/><lb/>nis factus sum sicut nicticorax
+                        <lb/>in domicilio<pc rend="punctus">.</pc><milestone unit="vers" n="101:8"/>vigilavi <choice><expan ana="ori:align-no">et</expan><abbr><am>⁊</am></abbr></choice> fac<lb break="no"/>tus sum sicut passer solitarius <lb/>in tecto<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:9"/>tota die exprobraba<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t <lb/>michi
+                        inimici mei<pc rend="colon">:</pc> et qui lauda<lb break="no"/>bant me
+                        adversu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> me jurabant<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:10"/>quia cynere<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>
+                        tan<choice><expan ana="ori:align-no">q<ex>u</ex>a<ex>m</ex></expan><abbr><am>ꝙ</am><am>ͣ</am></abbr></choice> pane<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> ma<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice><lb break="no"/>ducabam
+                        et <sic>poculu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice></sic> meu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> cum <lb/>fletu miscebam<pc rend="punctus">.</pc><milestone unit="vers" n="101:11"/>a facie ire et in<lb break="no"/>dignationis tue<pc rend="colon">:</pc> quia eleva<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s <lb/>allisisti
+                            me<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:12"/>dies mei sicut <lb/>umbra declinaverunt
+                        <choice><expan ana="ori:align-no">et</expan><abbr><am>⁊</am></abbr></choice> ego sicut <lb/>fenum arui<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:13"/>tu autem <choice><expan ana="ori:align-no">d<ex>omi</ex>n</expan><abbr>dn<am>̃</am></abbr></choice>e <lb/>in
+                        eternu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> permanes et me<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>oriale <lb/>tuum in generationem et
+                            gene<lb break="no"/>rationem<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:14"/>tu exurge<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>s <choice><expan ana="ori:align-no">d<ex>omi</ex>n</expan><abbr>dn<am>̃</am></abbr></choice>e
+                        <lb/>misereberis syon quia tempus <pb n="128v" facs="btv1b55009437p_f264.jpg"/><lb/>miserendi ejus quia venit tem<lb break="no"/>pus <milestone unit="vers" n="101:15"/><choice><expan ana="ori:align-no">q<ex>uonia</ex>m</expan><abbr>qm<am>̃</am></abbr></choice>
+                        placuerunt servis <lb/>tuis lapides ejus et terre ejus <lb/>miserebuntur<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:16"/>et timebu<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t <lb/>gentes nomen
+                        tuum domine <lb/>et omnes reges terre gloriam <lb/>tuam<pc rend="punctus">.</pc><milestone unit="vers" n="101:17"/>quia edificavit do<lb break="no"/>minus
+                        sion et videbitur i<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> <choice><expan ana="ori:align-no">gl<ex>ori</ex></expan><abbr>gl<am>̃</am></abbr></choice>a <lb/>sua<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:18"/>respexit in orationem <lb/>humilium et
+                        non s<choice><expan ana="ori:align-no">p<ex>re</ex></expan><abbr><am></am></abbr></choice>vit prece<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>eorum<pc rend="punctus">.</pc><milestone unit="vers" n="101:19"/>scribantur hec i<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> ge<lb break="no"/>neratione altera et <choice><expan ana="ori:align-no">p<ex>o</ex>p<ex>u</ex>l</expan><abbr>ppl<am>̃</am></abbr></choice>us qui <lb/>creabitur
+                        laudabit dominu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/><milestone unit="vers" n="101:20"/>quia
+                        prospexit de excelso <lb/>sancto suo <choice><expan ana="ori:align-no">d<ex>omi</ex>n<ex>u</ex></expan><abbr>dn<am>̃</am></abbr></choice>s de celo in
+                        terra<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>aspexit<pc rend="punctus">.</pc><milestone unit="vers" n="101:21"/>ut audiret gemi<lb break="no"/>tus
+                        compedito<choice><expan ana="ori:align-no">r<ex>um</ex></expan><abbr>ꝝ</abbr></choice> ut solveret <pb n="129r" facs="btv1b55009437p_f265.jpg"/><lb/>filios interemptoru<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice><pc rend="punctus">.</pc><milestone unit="vers" n="101:22"/>ut an<lb break="no"/>nuntient in syon
+                        nomen <choice><expan ana="ori:align-no">d<ex>omi</ex>n</expan><abbr>dn<am>̃</am></abbr></choice>i<pc rend="colon">:</pc>
+                        <lb/>et laudem ejus in <choice><expan ana="ori:align-no">ier<ex>usa</ex>l<ex>e</ex>m</expan><abbr>ihrl<am>̃</am>m</abbr></choice><pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:23"/>in <lb/>conveniendo populos i<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>
+                            unu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice><pc rend="colon">:</pc>
+                        <lb/>et reges ut serviant domino<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:24"/>respondit ei in via virtu<lb break="no"/>tis sue paucitate<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> die<choice><expan ana="ori:align-no">r<ex>um</ex></expan><abbr>ꝝ</abbr></choice>
+                        meoru<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>nuntia michi<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:25"/>ne revoces <lb/>me in dimidio
+                        dieru<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> meoru<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>in generationem <choice><expan ana="ori:align-no">et</expan><abbr><am>⁊</am></abbr></choice>
+                        generatio<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>em <lb/>anni tui<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:26"/>initio tu domi<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>e <lb/>terram
+                            fundasti<pc rend="colon">:</pc> et o<choice><expan ana="ori:align-no">p<ex>er</ex></expan><abbr><am>ꝑ</am></abbr></choice>a ma<lb break="no"/>nuum
+                        tuaru<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> sunt celi<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:27"/><choice><expan ana="ori:align-no">ip<ex>s</ex></expan><abbr>ip<am>̃</am></abbr></choice>i <lb/>peribunt tu
+                        aute<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> permanes <lb/>et omnes sicut vestime<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>tum
+                            <lb/>veterascent<pc rend="punctus">.</pc>
+                        <hi rend="initiale 1l">e</hi>t sicut <sic>opor<lb break="no"/>torium</sic>
+                        mutabis eos <choice><expan ana="ori:align-no">et</expan><abbr><am>⁊</am></abbr></choice> mu<pb n="129v" facs="btv1b55009437p_f266.jpg" break="no"/><lb break="no"/>tabuntur<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:28"/>tu autem idem <choice><expan ana="ori:align-no">ip<ex>s</ex></expan><abbr>ip<am>̃</am></abbr></choice>e es <lb/>et
+                        anni tui no<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> deficie<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:29"/>filii <lb/>servoru<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>
+                        tuoru<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> habitabunt <choice><expan ana="ori:align-no">et</expan><abbr><am>⁊</am></abbr></choice> se<lb break="no"/>men eoru<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>
+                        in seculu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> dirigetur<pc rend="punctus">.</pc>
+                    </p>
+                </body>
+            </text></TEI><TEI><teiHeader><fileDesc><titleStmt><title>Acte original </title><author/></titleStmt><publicationStmt><p>See the header of the teiCorpus</p></publicationStmt><sourceDesc><listWit>
+                        <witness n="A"><msDesc>
+                                <msIdentifier>
+                                    <repository>ARS.</repository>
+                                    <idno>641</idno>
+                                </msIdentifier>
+                                <msContents>
+                                    <summary>HF</summary>
+                                </msContents>
+                                <additional>
+                                    <surrogates>http://gallica.bnf.fr/ark:/12148/btv1b55005731r.r=.langFR</surrogates>
+                                </additional>
+                            </msDesc></witness>
+                    </listWit></sourceDesc></fileDesc><profileDesc><creation/></profileDesc></teiHeader><text>
+                <body>
+                    
+                    <p><pb n="100v" facs="btv1b55005731r_f212.jpg"/><lb/><milestone unit="vers" n="101:2"/> domine exaudi oratione<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>meam et clamor meus
+                        <lb/>ad te veniat<pc rend="punctus">.</pc><lb/><milestone unit="vers" n="101:3"/>
+                        non avertas facie<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> tua<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> a me <lb/>in
+                        quacu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice><choice><expan ana="ori:align-no">q<ex>ue</ex></expan><abbr>q<am></am></abbr></choice> die tribulor inclina <lb/>ad me aurem
+                            tuam<pc rend="punctus">.</pc>
+                        <lb/>in quacu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice><choice><expan ana="ori:align-no">q<ex>ue</ex></expan><abbr>q<am></am></abbr></choice> die invocavero <pb n="101r" facs="btv1b55005731r_f213.jpg"/><lb/>te velociter exaudi me<pc rend="punctus">.</pc><lb/><milestone unit="vers" n="101:4"/> quia defecerunt
+                        sicut fumus <lb/>dies mei et ossa mea sicut cremi<lb break="no"/>um
+                            aruerunt<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:5"/>percussus sum ut fenum et <lb/>aruit
+                        cor meu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> quia oblitus su<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>comedere pane<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>
+                            meum<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:6"/>a voce gemitus mei adhesit <lb/>os
+                        meum carni mee<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:7"/>similis factus su<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> pellicano
+                        <lb/>solitudinis factus sum sicut <lb/>nicticorax in domicilio<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:8"/>vigilavi et factus su<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> sicut
+                            pas<lb break="no"/>ser solitarius in tecto<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:9"/>tota die exprobrabant michi
+                        <lb/>inimici mei et qui laudabant me <lb/>adversu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> me jurabant<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:10"/>quia cynerem
+                        tan<choice><expan ana="ori:align-no">q<ex>u</ex>a<ex>m</ex></expan><abbr><am>ꝙ</am><am>ͣ</am></abbr></choice> pane<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>manducabam et potum
+                        meu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>cum fletu miscebam<pc rend="punctus">.</pc>
+                        <pb n="101v" facs="btv1b55005731r_f214.jpg"/><lb/><milestone unit="vers" n="101:11"/>a facie ire <supplied ana="ori:align-no">et </supplied>indignationis tue
+                        <lb/>quia elevans allisisti me<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:12"/>dies mei sicut umbra declina<lb break="no" rend="hyphen"/>verunt <choice><expan ana="ori:align-no">et</expan><abbr><am>⁊</am></abbr></choice> ego sicut fenu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>
+                            arui<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:13"/>tu autem <choice><expan ana="ori:align-no">d<ex>omi</ex>n</expan><abbr>dn<am>̃</am></abbr></choice>e in
+                        eternu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <choice><expan ana="ori:align-no">p<ex>er</ex></expan><abbr><am>ꝑ</am></abbr></choice>ma<lb break="no" rend="hyphen"/>nes et
+                        memoriale tuum in genera<lb break="no" rend="hyphen"/>tione<supplied ana="ori:align-no">m</supplied> et generationem<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:14"/>tu exurgens <choice><expan ana="ori:align-no">d<ex>omi</ex>n</expan><abbr>dn<am>̃</am></abbr></choice>e
+                        misereberis <lb/>syon quia tempus miserendi ei<choice><expan ana="ori:align-no"><ex>us</ex></expan><abbr><am>᷒</am></abbr></choice> <lb/>quia venit
+                            tempus<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:15"/><choice><expan ana="ori:align-no">q<ex>uonia</ex>m</expan><abbr>qm<am>̃</am></abbr></choice>
+                        placueru<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t servis tuis lapi<lb break="no"/>des ejus <choice><expan ana="ori:align-no">et</expan><abbr><am>⁊</am></abbr></choice>
+                        terre ejus miserebu<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>tur<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:16"/>et timebu<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t gentes
+                        nome<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> tuu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/><choice><expan ana="ori:align-no">d<ex>omi</ex>n</expan><abbr>dn<am>̃</am></abbr></choice>e et <choice><expan ana="ori:align-no">o<ex>mn</ex></expan><abbr>o<am>̃</am></abbr></choice>es reges
+                        terre gloria<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> tuam <lb/><milestone unit="vers" n="101:17"/>quia
+                        edificavit <choice><expan ana="ori:align-no">d<ex>omi</ex>n<ex>u</ex></expan><abbr>dn<am>̃</am></abbr></choice>s syon et <lb/>videbitur in gloria sua<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:18"/>respexit in oratione<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>
+                            humili<lb break="no"/>um et no<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> sprevit prece<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> eorum<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:19"/>scribantur hec in generatio<lb break="no"/>ne altera et populus qui creabi<pb break="no" n="102r" facs="btv1b55005731r_f215.jpg"/><lb break="no"/>tur laudabit dominum<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:20"/>quia prospexit de excelso
+                        <choice><expan ana="ori:align-no">s<ex>an</ex>c<ex>t</ex></expan><abbr>sc<am>̃</am></abbr></choice>o <lb/>suo <choice><expan ana="ori:align-no">d<ex>omi</ex>n<ex>u</ex></expan><abbr>dn<am>̃</am></abbr></choice>s de celo in terra<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>
+                            aspexit<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:21"/>ut audiret gemitus compedi<lb break="no"/>torum ut solveret filios intere<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>p<lb break="no"/>toru<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice><milestone unit="vers" n="101:22"/><hi rend="initiale 1l">u</hi>t annu<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>tient in syo<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> no<lb break="no"/>men
+                        <choice><expan ana="ori:align-no">d<ex>omi</ex>n</expan><abbr>dn<am>̃</am></abbr></choice>i et laude<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> ejus in <choice><expan ana="ori:align-no">ier<ex>usa</ex>l<ex>e</ex>m</expan><abbr>ihrl<am>̃</am>m</abbr></choice> <pc rend="punctus">.</pc><lb/><milestone unit="vers" n="101:23"/>in
+                        co<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>veniendo <choice><expan ana="ori:align-no">p<ex>o</ex>p<ex>u</ex>l</expan><abbr>ppl<am>̃</am></abbr></choice>os in unu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>et reges ut
+                        serviant domino<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:24"/>respondit ei in via virtutis
+                        <lb/>sue paucitate<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> dierum meorum <lb/>nuntia michi<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:25"/>ne revoces me in dimidio di<lb break="no"/>erum meoru<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> in generatione<supplied ana="ori:align-no">m</supplied>
+                        <choice><expan ana="ori:align-no">et</expan><abbr><am>⁊</am></abbr></choice> <lb/>generatione<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> anni tui<pc rend="punctus"/><lb/><milestone unit="vers" n="101:26"/>initio tu <choice><expan ana="ori:align-no">d<ex>omi</ex>n</expan><abbr>dn<am>̃</am></abbr></choice>e
+                        terra<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> fundasti <lb/>et o<choice><expan ana="ori:align-no">p<ex>er</ex></expan><abbr><am>ꝑ</am></abbr></choice>a manuu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>
+                        tuaru<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> sunt celi<pc rend="punctus">.</pc><lb/><milestone unit="vers" n="101:27"/>ipsi peribunt tu autem per<lb break="no"/>manes et
+                        <choice><expan ana="ori:align-no">om<ex>ne</ex></expan><abbr>om<am>̃</am></abbr></choice>s sicut vestimen<lb break="no"/>tum veterascent<pc rend="punctus">.</pc>
+                        <pb n="102v" facs="btv1b55005731r_f216.jpg"/><lb/><hi rend="initiale 1l">e</hi>t sicut opertoriu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> mutabis eos <lb/>et mutabuntur
+                            <milestone unit="vers" n="101:28"/>tu aute<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> idem ipse <lb/>es et
+                        anni tui non deficient<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:29"/>filii servo<choice><expan ana="ori:align-no">r<ex>um</ex></expan><abbr>ꝝ</abbr></choice>
+                        tuo<choice><expan ana="ori:align-no">r<ex>um</ex></expan><abbr>ꝝ</abbr></choice> habitabunt <lb/>et semen eoru<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> in
+                        seculu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> dirigetur<pc rend="punctus">.</pc>
+                        <lb/>Gloria <choice><expan ana="ori:align-no">p<ex>at</ex>r</expan><abbr>pr<am>̃</am></abbr></choice>i Sicut erat<pc rend="punctus">.</pc>
+                        <hi rend="red"><choice><expan ana="ori:align-no">ps<ex>almus</ex></expan><abbr>ps<am>̃</am></abbr></choice></hi><pc rend="punctus">.</pc></p>
+                </body>
+            </text></TEI><TEI><teiHeader><fileDesc><titleStmt><title>Acte original </title><author/></titleStmt><publicationStmt><p>See the header of the teiCorpus</p></publicationStmt><sourceDesc><listWit>
+                        <witness n="A"><msDesc>
+                                <msIdentifier>
+                                    <repository>ARS.</repository>
+                                    <idno>1185</idno>
+                                </msIdentifier>
+                                <msContents>
+                                    <summary>HF</summary>
+                                </msContents>
+                                <additional>
+                                    <surrogates>http://gallica.bnf.fr/ark:/12148/btv1b55007801k.r=.langFR</surrogates>
+                                </additional>
+                            </msDesc></witness>
+                    </listWit></sourceDesc></fileDesc><profileDesc><creation/></profileDesc></teiHeader><text>
+                <body>
+                    
+                    <p><pb n="229v" facs="btv1b55007801k_f468.jpg"/><lb/><milestone unit="vers" n="101:2"/> domine exaudi <lb/>oratione<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> meam <lb/>et clamor
+                        <choice><expan ana="ori:align-no">m<ex>eu</ex></expan><abbr>m<am>̃</am></abbr></choice>s ad te ve<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>iat<lb/><milestone unit="vers" n="101:3"/>
+                        non avertas facie<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>tuam a me in quacum<choice><expan ana="ori:align-no">q<ex>ue</ex></expan><abbr>q<am></am></abbr></choice>
+                        <lb/>die tribulor inclina ad <lb/>me aure<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> tua<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice><pc rend="punctus">.</pc>
+                        <hi rend="initiale 1l">i</hi>n
+                        q<choice><expan ana="ori:align-no"><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>cu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice><choice><expan ana="ori:align-no"><ex>que</ex></expan><abbr><am></am></abbr></choice> <lb/>die invocavero te
+                        velocit<choice><expan ana="ori:align-no"><ex>er</ex></expan><abbr><am>͛</am></abbr></choice> <lb/>exaudi me<pc rend="punctus">.</pc><milestone unit="vers" n="101:4"/> quia defe<lb break="no"/>cerunt sicut fumus dies
+                        <lb/>mei et ossa mea sicut cre<pb break="no" n="230r" facs="btv1b55007801k_f469.jpg"/><lb break="no"/>miu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> aruerunt<pc rend="punctus">.</pc><milestone unit="vers" n="101:5"/>per<lb break="no"/>cussus sum ut fenum
+                        <lb/>et aruit cor meum qui<lb break="no"/>a oblitus sum
+                            <sic>comed<choice><expan ana="ori:align-no"><ex>er</ex></expan><abbr><am>͛</am></abbr></choice>e</sic>
+                        <lb/>pane<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> meum<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:6"/>a voce <lb/>gemitus mei adhesit os
+                        <lb/>meum carni mee<pc rend="punctus">.</pc><milestone unit="vers" n="101:7"/>si<lb break="no"/>milis factus sum pelli<lb break="no"/>cano
+                        solitudinis fac<lb break="no"/>tus sum sicut niticorax <lb/>in domicilio<pc rend="punctus">.</pc><milestone unit="vers" n="101:8"/>vigila<lb break="no"/>vi et factus sum
+                        sicut <pb n="230v" facs="btv1b55007801k_f470.jpg"/><lb/>passer solitarius in
+                            tec<lb break="no"/>to<pc rend="punctus">.</pc><milestone unit="vers" n="101:9"/>tota die exprobra<lb break="no" rend="hyphen"/>bant michi inimici me<lb break="no" rend="hyphen"/>i et
+                        qui laudabant me adver<lb break="no" rend="hyphen"/>sum me jurabant<pc rend="punctus">.</pc>
+                        <figure/><lb/><milestone unit="vers" n="101:10"/>quia cinere<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>
+                        tanq<choice><expan ana="ori:align-no"><ex>u</ex>a</expan><abbr><am>ͣ</am></abbr></choice>m <lb/>panem manducabam et <lb/>potum meu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> cum
+                        fletu <lb/>miscebam<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:11"/>a facie ire <supplied ana="ori:align-no">et</supplied>
+                        <lb/>indignationis tue q<choice><expan ana="ori:align-no"><ex>u</ex>i</expan><abbr><am>ͥ</am></abbr></choice>a <lb/>elevans allisisti me<pc rend="punctus">.</pc>
+                        <figure/><lb/><milestone unit="vers" n="101:12"/>dies mei sicut um<pb break="no" n="231r" facs="btv1b55007801k_f471.jpg"/><lb break="no"/>bra
+                        declinaverunt et ego <lb/>sicut fenu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> arui<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:13"/>tu <lb/>autem <choice><expan ana="ori:align-no">d<ex>omi</ex>n</expan><abbr>dn<am>̃</am></abbr></choice>e in
+                        eternu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> per<lb break="no"/>manes et memoriale <lb/>tuum in
+                            generatione<supplied ana="ori:align-no">m</supplied>
+                        <lb/>et generatione<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice><pc rend="punctus">.</pc><milestone unit="vers" n="101:14"/>tu ex<lb break="no"/>urgens <choice><expan ana="ori:align-no">d<ex>omi</ex>n</expan><abbr>dn<am>̃</am></abbr></choice>e misereberis
+                        <lb/>syon quia tempus mi<lb break="no"/>serendi ejus quia venit
+                            <lb/>tempus<pc rend="punctus">.</pc><milestone unit="vers" n="101:15"/><choice><expan ana="ori:align-no">q<ex>uonia</ex>m</expan><abbr>qm<am>̃</am></abbr></choice> placu<lb break="no"/>erunt servis tuis lapi<lb break="no"/>des ejus et terre ejus mi<pb break="no" n="231v" facs="btv1b55007801k_f472.jpg"/><lb break="no"/>serebuntur<pc rend="punctus">.</pc><milestone unit="vers" n="101:16"/>et time<lb break="no" rend="hyphen"/>bunt
+                        gentes nome<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> tu<lb break="no" rend="hyphen"/>um <choice><expan ana="ori:align-no">d<ex>omi</ex>n</expan><abbr>dn<am>̃</am></abbr></choice>e et
+                        omnes reges <lb/>terre gloriam tuam<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:17"/>quia edificavit do<lb break="no" rend="hyphen"/>minus syon et videbit<choice><expan ana="ori:align-no"><ex>ur</ex></expan><abbr><am>᷑</am></abbr></choice> <lb/>in
+                        <choice><expan ana="ori:align-no">gl<ex>ori</ex></expan><abbr>gl<am>̃</am></abbr></choice>a sua<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:18"/>respexit <lb/>in <choice><expan ana="ori:align-no">or<ex>ati</ex></expan><abbr>or<am>̃</am></abbr></choice>onem
+                        humilium et <lb/>non sprevit prece<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> eo<choice><expan ana="ori:align-no">r<ex>um</ex></expan><abbr>ꝝ</abbr></choice><pc rend="punctus">.</pc><lb/><milestone unit="vers" n="101:19"/>scribantur hec
+                        in <lb/>generatione altera et <lb/>populus qui creabit<choice><expan ana="ori:align-no"><ex>ur</ex></expan><abbr><am>᷑</am></abbr></choice><pc rend="punctus">.</pc><pb n="232r" facs="btv1b55007801k_f473.jpg"/><lb/>laudabit <choice><expan ana="ori:align-no">d<ex>omi</ex>n<ex>u</ex></expan><abbr>dn<am>̃</am></abbr></choice>m<pc rend="punctus">.</pc><milestone unit="vers" n="101:20"/>qui<lb break="no" rend="hyphen"/>a prospexit de excelso
+                        <choice><expan ana="ori:align-no">s<ex>an</ex>c<ex>t</ex></expan><abbr>sc<am>̃</am></abbr></choice>o <lb/>suo <choice><expan ana="ori:align-no">d<ex>omi</ex>n<ex>u</ex></expan><abbr>dn<am>̃</am></abbr></choice>s de celo in terra<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>
+                            <lb/>aspexit<pc rend="punctus">.</pc><milestone unit="vers" n="101:21"/>ut
+                        audiret ge<lb break="no"/>mitus compedito<choice><expan ana="ori:align-no">r<ex>um</ex></expan><abbr>ꝝ</abbr></choice> ut <lb/>solveret
+                        filios interemp<lb break="no"/>torum<pc rend="punctus">.</pc><milestone unit="vers" n="101:22"/>ut annunti<lb break="no"/>ent in syon
+                        nome<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice> <choice><expan ana="ori:align-no">d<ex>omi</ex>n</expan><abbr>dn<am>̃</am></abbr></choice>i <lb/>et laudem ejus in iheru<lb break="no"/>salem<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:23"/><hi rend="initiale 1l">i</hi>n
+                        convenie<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice><lb/>do populos in unu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> et re<lb break="no"/>ges ut
+                        serviant <choice><expan ana="ori:align-no">d<ex>omi</ex>n</expan><abbr>dn<am>̃</am></abbr></choice>o<pc rend="punctus">.</pc>
+                        <pb n="232v" facs="btv1b55007801k_f474.jpg"/><lb/><milestone unit="vers" n="101:24"/><hi rend="initiale 1l">r</hi>espondit ei in via
+                        <lb/>virtutis sue paucitate<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>dieru<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>
+                        meo<choice><expan ana="ori:align-no">r<ex>um</ex></expan><abbr>ꝝ</abbr></choice> nu<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>tia m<choice><expan ana="ori:align-no"><ex>ich</ex>i</expan><abbr><am>ͥ</am></abbr></choice><pc rend="punctus"/><lb/><milestone unit="vers" n="101:25"/>ne revoces me in di<lb break="no" rend="hyphen"/>midio dieru<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> meo<choice><expan ana="ori:align-no">r<ex>um</ex></expan><abbr>ꝝ</abbr></choice> in
+                            <lb/>generatione<supplied ana="ori:align-no">m</supplied> et genera<lb break="no"/>tione<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> anni tui<pc rend="punctus">.</pc><milestone unit="vers" n="101:26"/>ini<lb break="no"/>tio tu
+                        <choice><expan ana="ori:align-no">d<ex>omi</ex>n</expan><abbr>dn<am>̃</am></abbr></choice>e terram fun<lb break="no" rend="hyphen"/>dasti et opera
+                        manuu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>tuaru<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> sunt celi<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:27"/>ipsi <lb/>peribunt tu autem per<lb break="no" rend="hyphen"/>manes et omnes sicut <pb n="233r" facs="btv1b55007801k_f475.jpg"/><lb/>vestimentu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> veterascent
+                            <lb/><hi rend="initiale 1l">e</hi>t sicut opertorium <lb/>mutabis eos et
+                            muta<lb break="no" rend="hyphen"/>buntur <milestone unit="vers" n="101:28"/>tu autem idem <lb/>ipse es et anni tui non de<lb break="no"/>ficient<pc rend="punctus">.</pc>
+                        <milestone unit="vers" n="101:29"/>filii servo<choice><expan ana="ori:align-no">r<ex>um</ex></expan><abbr>ꝝ</abbr></choice>
+                        <lb/>tuo<choice><expan ana="ori:align-no">r<ex>um</ex></expan><abbr>ꝝ</abbr></choice> habitabunt et se<lb break="no" rend="hyphen"/>men
+                        eorum in seculum <lb/>dirigetur<pc rend="punctus">.</pc>
+                        <hi rend="initiale 1l">G</hi>loria<pc rend="punctus">.</pc><figure/></p>
+                </body>
+            </text></TEI><TEI><teiHeader><fileDesc><titleStmt><title>Acte original </title><author/></titleStmt><publicationStmt><p>See the header of the teiCorpus</p></publicationStmt><sourceDesc><listWit>
+                        <witness n="A"><msDesc>
+                                <msIdentifier>
+                                    <repository>ABBEVILLE.</repository>
+                                    <idno>15</idno>
+                                </msIdentifier>
+                                <msContents>
+                                    <summary>HF</summary>
+                                </msContents>
+                                <additional>
+                                    <surrogates>MF61709</surrogates>
+                                </additional>
+                            </msDesc></witness>
+                    </listWit></sourceDesc></fileDesc><profileDesc><creation/></profileDesc></teiHeader><text>
+                <body>
+                    
+                    <p>
+                        <pb n="77v" facs="B800016201_MS0015_0088.jpg"/><lb/><milestone unit="vers" n="101:2"/> domine exaudi <choice><expan ana="ori:align-no">or<ex>ati</ex></expan><abbr>or<am>̃</am></abbr></choice>onem <lb/>meam et clamor meus
+                            <pb n="78r"/><lb/>ad te veniat<pc rend="punctus">.</pc>
+                        <space/><lb/><milestone unit="vers" n="101:3"/> non avertas faciem tuam a me
+                        <lb/>in quacumque die tribulor inclina ad <lb/>me aurem tuam<pc rend="punctus">.</pc>
+                        <space/><lb/>in quacumque die invocavero <lb/>te velociter exaudi me<pc rend="punctus">.</pc><space/><lb/><milestone unit="vers" n="101:4"/> quia
+                        defecerunt sicut fumus dies <lb/>mei et ossa mea sicut cremium aruerunt
+                            <lb/><milestone unit="vers" n="101:5"/>percussus sum ut fenum et aruit
+                        <lb/>cor meum quia oblitus sum comedere <lb/>panem meum<pc rend="punctus">.</pc>
+                        <space/><lb/><milestone unit="vers" n="101:6"/>a voce gemitus mei adhesit os
+                            me<lb break="no"/>um carni <sic>mei</sic><pc rend="punctus">.</pc>
+                        <space/><lb/><milestone unit="vers" n="101:7"/>similis factus sum pellicano
+                            soli<lb break="no"/>tudinis factus sum sicut nicticorax in
+                            <lb/>domicilio<pc rend="punctus">.</pc>
+                        <space/><lb/><milestone unit="vers" n="101:8"/>vigilavi et factus sum sicut
+                            pas<pb break="no" n="78v" facs="B800016201_MS0015_0089.JPG"/><lb break="no"/>ser
+                        solitarius in tecto<pc rend="punctus">.</pc>
+                        <space/><lb/><milestone unit="vers" n="101:9"/>tota die exprobrabant mihi
+                            ini<lb break="no"/>mici mei et qui laudabant me adversu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <lb/>me
+                            jurabant<pc rend="punctus">.</pc>
+                        <space/><lb/><milestone unit="vers" n="101:10"/>quia cynerem tamquam panem
+                        <lb/>manducaba<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> <choice><expan ana="ori:align-no">et</expan><abbr><am>⁊</am></abbr></choice> potu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> meu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice> cu<choice><expan ana="ori:align-no"><ex>m</ex></expan><abbr><am>̃</am></abbr></choice>
+                        fletu miscebam <lb/><milestone unit="vers" n="101:11"/>a facie ire
+                            <supplied ana="ori:align-no">et</supplied> indignationis tue quia <lb/>elevans allisisti
+                            me<pc rend="punctus">.</pc>
+                        <space/><lb/><milestone unit="vers" n="101:12"/>dies mei sicut umbra
+                        declinaveru<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t <lb/>et ego sicut fenum arui<pc rend="punctus">.</pc>
+                        <space/><lb/><milestone unit="vers" n="101:13"/>tu autem domine in eternum
+                            per<lb break="no"/>manes et memoriale tuum in generati<lb break="no"/>one<supplied ana="ori:align-no">m</supplied> et generationem<pc rend="punctus">.</pc>
+                        <space/><lb/><milestone unit="vers" n="101:14"/>tu exurgens domine
+                        misereberis <lb/>syon quia tempus miserendi ejus quia <lb/>venit tempus<pc rend="punctus">.</pc>
+                        <space/><lb/><milestone unit="vers" n="101:15"/>quoniam placuerunt servis
+                        tuis <pb n="79r"/><lb/>lapides ejus <choice><expan ana="ori:align-no">et</expan><abbr><am>⁊</am></abbr></choice> terre ejus miserebuntur<pc rend="punctus">.</pc>
+                        <space/><lb/><milestone unit="vers" n="101:16"/>et timebunt gentes nomen
+                        tuum <lb/>domine <choice><expan ana="ori:align-no">et</expan><abbr><am>⁊</am></abbr></choice> omnes reges terre gloriam tuam
+                            <lb/><milestone unit="vers" n="101:17"/>quia edificavit dominus syon et
+                            vi<lb break="no"/>debitur in gloria sua<pc rend="punctus">.</pc>
+                        <space/><lb/><milestone unit="vers" n="101:18"/>respexit in orationem
+                        humilium et <lb/>non sprevit precem eorum<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:19"/>scribantur hec in generatione altera
+                        <lb/><choice><expan ana="ori:align-no">et</expan><abbr><am>⁊</am></abbr></choice> populus qui creabitur laudabit <choice><expan ana="ori:align-no">d<ex>omi</ex>n<ex>u</ex></expan><abbr>dn<am>̃</am></abbr></choice>m<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:20"/>quia prospexit de excelso sancto suo
+                            do<lb break="no"/>minus de celo in terram aspexit <lb/><milestone unit="vers" n="101:21"/>ut audiret gemitus compeditorum <lb/>ut solveret
+                        filios <sic>interremptorum</sic><pc rend="punctus">.</pc>
+                        <space/><lb/><milestone unit="vers" n="101:22"/>ut annuntient in syon nomen
+                            domi<lb break="no"/>ni et laudem ejus in iherusalem<pc rend="punctus">.</pc>
+                        <space/><lb/><milestone unit="vers" n="101:23"/>in conveniendo populos in
+                        unum <lb/>et reges ut serviant domino<pc rend="punctus">.</pc>
+                        <space/><pb n="79v" facs="B800016201_MS0015_0090.JPG"/><lb/><milestone unit="vers" n="101:24"/>respondit ei in via virtutis sue <space/>
+                        <lb/>paucitatem dierum meorum nuntia m<choice><expan ana="ori:align-no"><ex>ich</ex>i</expan><abbr><am>ͥ</am></abbr></choice><pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:25"/>ne revoces me in dimidio dierum
+                            me<lb break="no"/>orum in generatione<supplied ana="ori:align-no">m</supplied> et
+                        generationem an<lb break="no"/>ni tui<pc rend="punctus">.</pc>
+                        <lb/><milestone unit="vers" n="101:26"/>initio tu domine terram fundasti et
+                        <lb/>opera manuum tuarum sunt celi<pc rend="punctus">.</pc>
+                        <space/><lb/><milestone unit="vers" n="101:27"/>ipsi peribunt tu autem
+                        permanes <lb/>et omnes sicut vestimentum veterascent <lb/><hi rend="initiale 1l">e</hi>t sicut opertorium mutabis eos et
+                        <lb/>mutabuntur<milestone unit="vers" n="101:28"/>tu autem idem ipse es et
+                            an<lb break="no"/>ni tui non deficient<pc rend="punctus">.</pc>
+                        <space/><lb/><milestone unit="vers" n="101:29"/>filii servorum tuorum
+                        habitabu<choice><expan ana="ori:align-no"><ex>n</ex></expan><abbr><am>̃</am></abbr></choice>t <lb/>et semen eorum in seculum dirigetur<pc rend="punctus">.</pc>
+                        <hi rend="red"><choice><expan ana="ori:align-no">ps<ex>almus</ex></expan><abbr>ps<am>̃</am></abbr></choice></hi></p>
+                </body>
+            </text></TEI>
+</teiCorpus>
